@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/footprints.pretty")(options "")(descr ""))
+  (lib (name "ul_5051102091")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_5051102091")(options "")(descr ""))
+  (lib (name "ul_5051101697")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_5051101697")(options "")(descr ""))
+  (lib (name "ul_5051101292")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_5051101292")(options "")(descr ""))
+  (lib (name "ul_5051100692")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_5051100692")(options "")(descr ""))
+)
