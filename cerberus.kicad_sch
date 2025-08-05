@@ -687,7 +687,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e5f30274-3d0b-48fa-97b9-1aa6024b9548")
-		(property "Reference" "#PWR0171"
+		(property "Reference" "#PWR01"
 			(at 58.42 181.61 0)
 			(effects
 				(font
@@ -737,7 +737,7 @@
 		(instances
 			(project "cerberus"
 				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233"
-					(reference "#PWR0171")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)

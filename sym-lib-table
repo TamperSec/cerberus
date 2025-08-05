@@ -3,4 +3,7 @@
   (lib (name "PIC32CZ8110CA90208-I-8MX-SL3")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_PIC32CZ8110CA90208-I-8MX-SL3/PIC32CZ8110CA90208-I-8MX-SL3.kicad_sym")(options "")(descr ""))
   (lib (name "SN74LVC2G17DBVR")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_SN74LVC2G17DBVR/SN74LVC2G17DBVR.kicad_sym")(options "")(descr ""))
   (lib (name "LM339PW")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_LM339PW/LM339PW.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74LVC125ARGYR")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_SN74LVC125ARGYR/SN74LVC125ARGYR.kicad_sym")(options "")(descr ""))
+  (lib (name "LM393LVDSGR")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_LM393LVDSGR/LM393LVDSGR.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74LVC2G04DCKR")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_SN74LVC2G04DCKR/SN74LVC2G04DCKR.kicad_sym")(options "")(descr ""))
 )

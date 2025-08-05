@@ -519,6 +519,12 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)"
       },
       {
+        "name": "CORNER",
+        "pcb_color": "rgb(255, 255, 0)",
+        "priority": 5,
+        "schematic_color": "rgba(0, 0, 0, 0.000)"
+      },
+      {
         "name": "JTAG",
         "pcb_color": "rgb(255, 0, 255)",
         "priority": 9,
@@ -527,49 +533,43 @@
       {
         "name": "LEDS",
         "pcb_color": "rgb(0, 255, 0)",
-        "priority": 2,
+        "priority": 7,
         "schematic_color": "rgba(0, 0, 0, 0.000)"
       },
       {
         "name": "OSC",
         "pcb_color": "rgb(174, 0, 255)",
-        "priority": 1,
-        "schematic_color": "rgba(0, 0, 0, 0.000)"
-      },
-      {
-        "name": "SIGINA",
-        "pcb_color": "rgb(0, 194, 194)",
-        "priority": 3,
-        "schematic_color": "rgba(0, 0, 0, 0.000)"
-      },
-      {
-        "name": "SIGINN",
-        "pcb_color": "rgb(0, 0, 132)",
-        "priority": 0,
-        "schematic_color": "rgba(0, 0, 0, 0.000)"
-      },
-      {
-        "name": "SIGINP",
-        "pcb_color": "rgb(0, 0, 255)",
-        "priority": 7,
-        "schematic_color": "rgba(0, 0, 0, 0.000)"
-      },
-      {
-        "name": "SIGOUT",
-        "pcb_color": "rgb(255, 153, 0)",
         "priority": 6,
         "schematic_color": "rgba(0, 0, 0, 0.000)"
       },
       {
-        "name": "SIGOUTA",
-        "pcb_color": "rgb(255, 255, 0)",
-        "priority": 5,
+        "name": "SIGOUT_P",
+        "pcb_color": "rgb(0, 132, 0)",
+        "priority": 4,
         "schematic_color": "rgba(0, 0, 0, 0.000)"
       },
       {
-        "name": "SIGOUTB",
-        "pcb_color": "rgb(0, 132, 0)",
-        "priority": 4,
+        "name": "SIN_A",
+        "pcb_color": "rgb(255, 153, 0)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)"
+      },
+      {
+        "name": "SIN_B",
+        "pcb_color": "rgb(128, 77, 0)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)"
+      },
+      {
+        "name": "SOUT_A",
+        "pcb_color": "rgb(0, 0, 255)",
+        "priority": 3,
+        "schematic_color": "rgba(0, 0, 0, 0.000)"
+      },
+      {
+        "name": "SOUT_B",
+        "pcb_color": "rgb(0, 0, 132)",
+        "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)"
       }
     ],
@@ -583,26 +583,6 @@
     },
     "netclass_assignments": null,
     "netclass_patterns": [
-      {
-        "netclass": "SIGOUTB",
-        "pattern": "*SOUT_B*"
-      },
-      {
-        "netclass": "SIGOUTA",
-        "pattern": "*SOUT_A*"
-      },
-      {
-        "netclass": "SIGINA",
-        "pattern": "*SIN_A*"
-      },
-      {
-        "netclass": "SIGOUT",
-        "pattern": "*SIG_OUT*"
-      },
-      {
-        "netclass": "SIGINP",
-        "pattern": "*SIG_IN_P*"
-      },
       {
         "netclass": "COMP",
         "pattern": "*SIG_COMP*"
@@ -620,8 +600,32 @@
         "pattern": "*OSC*"
       },
       {
-        "netclass": "SIGINN",
-        "pattern": "*SIG_IN_N*"
+        "netclass": "CORNER",
+        "pattern": "*CORNER*"
+      },
+      {
+        "netclass": "CORNER",
+        "pattern": "*CRN_*"
+      },
+      {
+        "netclass": "SIGOUT_P",
+        "pattern": "*SIG_OUT*"
+      },
+      {
+        "netclass": "SOUT_B",
+        "pattern": "*SOUT_B*"
+      },
+      {
+        "netclass": "SOUT_A",
+        "pattern": "*SOUT_A*"
+      },
+      {
+        "netclass": "SIN_B",
+        "pattern": "*SIN_B*"
+      },
+      {
+        "netclass": "SIN_A",
+        "pattern": "*SIN_A*"
       }
     ]
   },
@@ -766,276 +770,120 @@
       "Signal Panel Connectors"
     ],
     [
-      "94b2dac9-8ca9-4392-9a2a-fd6be894cbda",
-      "Differential_1"
+      "62f789f1-f9de-43f8-896a-ae8f646641e1",
+      "OuterPanelConn1"
     ],
     [
-      "310fd532-4675-42d4-9607-d3f05f3c1531",
-      "QuadDiffComparator_1"
+      "2b40d223-6fa3-4c31-83d2-03d4628b7488",
+      "OuterPanelConn2"
     ],
     [
-      "6726c534-8dc0-41a4-8f3a-7bf99970354b",
-      "Differential_2"
+      "973f4d5f-302d-4b04-834e-910735016415",
+      "OuterPanelConn3"
     ],
     [
-      "30fb9c8e-e4b9-43b6-898e-37bd5be61d7e",
-      "Differential_3"
+      "2f248288-26da-43a2-902e-a7653e827580",
+      "OuterPanelConn4"
     ],
     [
-      "3aa0f4b4-ee90-4e70-9155-f40af23b3ed6",
-      "Differential_4"
+      "a2b72386-d855-457f-8e49-96b86ec9917e",
+      "OuterPanelConn5"
     ],
     [
-      "67b9726c-ea99-46f4-8884-554f223aa576",
-      "QuadDiffComparator_2"
+      "a129a778-91a2-4428-9bb6-2e408a461234",
+      "OuterPanelConn"
     ],
     [
-      "94b2dac9-8ca9-4392-9a2a-fd6be894cbda",
-      "Differential_1"
+      "c0c89bf1-1528-4115-8b35-09ba56171446",
+      "InnerPanelConn"
     ],
     [
-      "6726c534-8dc0-41a4-8f3a-7bf99970354b",
-      "Differential_2"
+      "e7079e5f-f702-4baf-954e-b0a2e0f3c6a1",
+      "Dual_InnerSmallPanelConn"
     ],
     [
-      "30fb9c8e-e4b9-43b6-898e-37bd5be61d7e",
-      "Differential_3"
+      "191eba70-2386-4121-8fd2-d321edc6288a",
+      "InnerPanelConn1"
     ],
     [
-      "3aa0f4b4-ee90-4e70-9155-f40af23b3ed6",
-      "Differential_4"
+      "99cad65c-ff53-495b-9620-0aad3f94e5f9",
+      "InnerPanelConn2"
     ],
     [
-      "d6275ca4-033d-4861-b4a5-a0fcb8e5b5db",
-      "QuadDiffComparator_3"
+      "4de7bdea-3385-4652-b462-8da7b0b2aa73",
+      "InnerPanelConn3"
     ],
     [
-      "94b2dac9-8ca9-4392-9a2a-fd6be894cbda",
-      "Differential_1"
+      "27768522-0f33-4f1a-bfa1-b47c6d3abe67",
+      "InnerPanelConn4"
     ],
     [
-      "6726c534-8dc0-41a4-8f3a-7bf99970354b",
-      "Differential_2"
+      "5db45048-e2ee-4184-b7d9-880c011ba109",
+      "InnerPanelConn5"
     ],
     [
-      "30fb9c8e-e4b9-43b6-898e-37bd5be61d7e",
-      "Differential_3"
+      "f73638f2-33a7-4168-82e9-7fbc0b8c166e",
+      "InnerPanelConn6"
     ],
     [
-      "3aa0f4b4-ee90-4e70-9155-f40af23b3ed6",
-      "Differential_4"
+      "3aecb663-d308-4408-b585-e9c3225685a3",
+      "InnerPanelConn7"
     ],
     [
-      "15b49b76-f630-41d5-bced-be4a28b5fc39",
-      "QuadDiffComparator_4"
+      "005e0956-233e-4e1f-89fd-95dc20b1eee4",
+      "InnerPanelConn8"
     ],
     [
-      "94b2dac9-8ca9-4392-9a2a-fd6be894cbda",
-      "Differential_1"
+      "f2e808b5-3f26-4733-b3f7-d6a2dc9c1b0a",
+      "InnerPanelConn9"
     ],
     [
-      "6726c534-8dc0-41a4-8f3a-7bf99970354b",
-      "Differential_2"
+      "6782eb74-ccb2-4e29-9649-ebe0e5c607d6",
+      "InnerPanelConn10"
     ],
     [
-      "30fb9c8e-e4b9-43b6-898e-37bd5be61d7e",
-      "Differential_3"
+      "31ef6cbe-4bc3-49d3-8ead-3ad0b7dea668",
+      "InnerPanelConn11"
     ],
     [
-      "3aa0f4b4-ee90-4e70-9155-f40af23b3ed6",
-      "Differential_4"
+      "a8b71140-0063-4355-9f00-e5d72eaa298e",
+      "InnerPanelConn12"
     ],
     [
-      "785d4f01-8695-43ec-a8ef-7baf2314c3f6",
-      "QuadDiffComparator_5"
+      "63a60617-3028-4add-97d2-f181bd65d294",
+      "InnerPanelConn13"
     ],
     [
-      "94b2dac9-8ca9-4392-9a2a-fd6be894cbda",
-      "Differential_1"
+      "549fad37-21f7-4bbf-8586-d16e6b116dbc",
+      "InnerPanelConn14"
     ],
     [
-      "6726c534-8dc0-41a4-8f3a-7bf99970354b",
-      "Differential_2"
+      "73294853-69b5-485e-a186-3d7c0cf8e0e6",
+      "InnerPanelConn15"
     ],
     [
-      "30fb9c8e-e4b9-43b6-898e-37bd5be61d7e",
-      "Differential_3"
+      "b6278005-245c-4fc1-8a1e-9d7f61bafe37",
+      "InnerPanelConn16"
     ],
     [
-      "3aa0f4b4-ee90-4e70-9155-f40af23b3ed6",
-      "Differential_4"
+      "e1130a7e-69bb-4f89-8b8f-237e0a40a36b",
+      "InnerPanelConn17"
     ],
     [
-      "374631b3-2d87-430f-9d34-6b56e1a2e3de",
-      "QuadDiffComparator_6"
+      "ab09b96f-400e-4bd4-a68c-904c4fb0ab46",
+      "Dual_InnerSmallPanelConn1"
     ],
     [
-      "94b2dac9-8ca9-4392-9a2a-fd6be894cbda",
-      "Differential_1"
+      "f6d10a20-eaf4-4a32-b19b-ec1ae3f725f3",
+      "Dual_InnerSmallPanelConn2"
     ],
     [
-      "6726c534-8dc0-41a4-8f3a-7bf99970354b",
-      "Differential_2"
+      "1375607c-e125-4066-9853-48033d7ec8f3",
+      "Dual_InnerSmallPanelConn3"
     ],
     [
-      "30fb9c8e-e4b9-43b6-898e-37bd5be61d7e",
-      "Differential_3"
-    ],
-    [
-      "3aa0f4b4-ee90-4e70-9155-f40af23b3ed6",
-      "Differential_4"
-    ],
-    [
-      "a5af28ef-3730-4380-8567-120a623149a3",
-      "QuadDiffComparator_7"
-    ],
-    [
-      "94b2dac9-8ca9-4392-9a2a-fd6be894cbda",
-      "Differential_1"
-    ],
-    [
-      "6726c534-8dc0-41a4-8f3a-7bf99970354b",
-      "Differential_2"
-    ],
-    [
-      "30fb9c8e-e4b9-43b6-898e-37bd5be61d7e",
-      "Differential_3"
-    ],
-    [
-      "3aa0f4b4-ee90-4e70-9155-f40af23b3ed6",
-      "Differential_4"
-    ],
-    [
-      "36fcf947-6b1a-4631-8fe5-5b423cc32e51",
-      "QuadDiffComparator_8"
-    ],
-    [
-      "94b2dac9-8ca9-4392-9a2a-fd6be894cbda",
-      "Differential_1"
-    ],
-    [
-      "6726c534-8dc0-41a4-8f3a-7bf99970354b",
-      "Differential_2"
-    ],
-    [
-      "30fb9c8e-e4b9-43b6-898e-37bd5be61d7e",
-      "Differential_3"
-    ],
-    [
-      "3aa0f4b4-ee90-4e70-9155-f40af23b3ed6",
-      "Differential_4"
-    ],
-    [
-      "3a9b316a-82af-491d-94c8-7ffc7ed65979",
-      "QuadDiffComparator_9"
-    ],
-    [
-      "94b2dac9-8ca9-4392-9a2a-fd6be894cbda",
-      "Differential_1"
-    ],
-    [
-      "6726c534-8dc0-41a4-8f3a-7bf99970354b",
-      "Differential_2"
-    ],
-    [
-      "30fb9c8e-e4b9-43b6-898e-37bd5be61d7e",
-      "Differential_3"
-    ],
-    [
-      "3aa0f4b4-ee90-4e70-9155-f40af23b3ed6",
-      "Differential_4"
-    ],
-    [
-      "8da9bd42-5928-4e62-bce8-d5c591995715",
-      "QuadDiffComparator_10"
-    ],
-    [
-      "94b2dac9-8ca9-4392-9a2a-fd6be894cbda",
-      "Differential_1"
-    ],
-    [
-      "6726c534-8dc0-41a4-8f3a-7bf99970354b",
-      "Differential_2"
-    ],
-    [
-      "30fb9c8e-e4b9-43b6-898e-37bd5be61d7e",
-      "Differential_3"
-    ],
-    [
-      "3aa0f4b4-ee90-4e70-9155-f40af23b3ed6",
-      "Differential_4"
-    ],
-    [
-      "edf0ec11-9480-4b45-9232-a919c10e47b9",
-      "QuadDiffComparator_11"
-    ],
-    [
-      "94b2dac9-8ca9-4392-9a2a-fd6be894cbda",
-      "Differential_1"
-    ],
-    [
-      "6726c534-8dc0-41a4-8f3a-7bf99970354b",
-      "Differential_2"
-    ],
-    [
-      "30fb9c8e-e4b9-43b6-898e-37bd5be61d7e",
-      "Differential_3"
-    ],
-    [
-      "3aa0f4b4-ee90-4e70-9155-f40af23b3ed6",
-      "Differential_4"
-    ],
-    [
-      "6f451d82-04b7-4418-a3e7-4dd53a0fbd93",
-      "QuadDiffComparator_12"
-    ],
-    [
-      "94b2dac9-8ca9-4392-9a2a-fd6be894cbda",
-      "Differential_1"
-    ],
-    [
-      "6726c534-8dc0-41a4-8f3a-7bf99970354b",
-      "Differential_2"
-    ],
-    [
-      "30fb9c8e-e4b9-43b6-898e-37bd5be61d7e",
-      "Differential_3"
-    ],
-    [
-      "3aa0f4b4-ee90-4e70-9155-f40af23b3ed6",
-      "Differential_4"
-    ],
-    [
-      "c5cb1acc-6986-4bb1-9c02-a4934e4a85dd",
-      "QuadDiffComparator_13"
-    ],
-    [
-      "94b2dac9-8ca9-4392-9a2a-fd6be894cbda",
-      "Differential_1"
-    ],
-    [
-      "6726c534-8dc0-41a4-8f3a-7bf99970354b",
-      "Differential_2"
-    ],
-    [
-      "30fb9c8e-e4b9-43b6-898e-37bd5be61d7e",
-      "Differential_3"
-    ],
-    [
-      "3aa0f4b4-ee90-4e70-9155-f40af23b3ed6",
-      "Differential_4"
-    ],
-    [
-      "4de23496-5e28-4b9c-b4a3-eb2838273f5f",
-      "Differential_1"
-    ],
-    [
-      "20dd1f85-d9e5-401b-a64c-034d09672f84",
-      "Differential_2"
-    ],
-    [
-      "5d7a3285-8670-4ac1-b396-427155c8f8f4",
-      "DoubleDiffComparator"
+      "39730800-0f2b-47fd-bf4e-4ba83b47c128",
+      "Power"
     ]
   ],
   "text_variables": {}

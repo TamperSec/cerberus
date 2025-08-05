@@ -5,4 +5,8 @@
   (lib (name "ul_5051101697")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_5051101697")(options "")(descr ""))
   (lib (name "ul_5051101292")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_5051101292")(options "")(descr ""))
   (lib (name "ul_5051100692")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_5051100692")(options "")(descr ""))
+  (lib (name "ul_PIC32CZ8110CA90208-I-8MX-SL3")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_PIC32CZ8110CA90208-I-8MX-SL3")(options "")(descr ""))
+  (lib (name "ul_SN74LVC125ARGYR")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_SN74LVC125ARGYR")(options "")(descr ""))
+  (lib (name "ul_SN74LVC2G04DCKR")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_SN74LVC2G04DCKR")(options "")(descr ""))
+  (lib (name "ul_LM393LVDSGR")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_LM393LVDSGR")(options "")(descr ""))
 )
