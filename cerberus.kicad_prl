@@ -13,7 +13,7 @@
       "shapes": 0.9900000095367432,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 0.20000000298023224
+      "zones": 0.09000000357627869
     },
     "selection_filter": {
       "dimensions": true,
@@ -22,7 +22,7 @@
       "keepouts": true,
       "lockedItems": true,
       "otherItems": true,
-      "pads": true,
+      "pads": false,
       "text": true,
       "tracks": true,
       "vias": true,

@@ -1105,13 +1105,5 @@
 		(layers "F.Cu")
 		(uuid "e24c9ca0-7da8-4ee1-b41b-eb3a214aba82")
 	)
-	(pad "V" thru_hole circle
-		(at 0 0)
-		(size 0.508 0.508)
-		(drill 0.254)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(uuid "9ae7ab73-73ab-4e69-a70a-20e3ba5e928c")
-	)
 	(embedded_fonts no)
 )
