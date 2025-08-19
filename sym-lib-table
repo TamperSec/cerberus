@@ -6,4 +6,5 @@
   (lib (name "SN74LVC125ARGYR")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_SN74LVC125ARGYR/SN74LVC125ARGYR.kicad_sym")(options "")(descr ""))
   (lib (name "LM393LVDSGR")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_LM393LVDSGR/LM393LVDSGR.kicad_sym")(options "")(descr ""))
   (lib (name "SN74LVC2G04DCKR")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_SN74LVC2G04DCKR/SN74LVC2G04DCKR.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74LVC244ARGYR")(type "KiCad")(uri "${KIPRJMOD}/symbols/ul_SN74LVC244ARGYR/SN74LVC244ARGYR.kicad_sym")(options "")(descr ""))
 )

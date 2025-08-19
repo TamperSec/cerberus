@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "1f162bae-873e-47ce-97ba-9850b3a49f93")
-	(paper "A4")
+	(paper "A3")
 	(title_block
 		(date "2025-07-29")
 		(company "TamperSec")
@@ -12,753 +12,803 @@
 	(lib_symbols)
 	(wire
 		(pts
-			(xy 259.08 25.4) (xy 255.27 25.4)
+			(xy 364.49 88.9) (xy 368.3 88.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "02beb3a1-9fd3-409a-a7ad-60519566e932")
+		(uuid "01df7db9-04a4-4eb3-899c-be739ba949c2")
 	)
 	(wire
 		(pts
-			(xy 212.09 55.88) (xy 208.28 55.88)
+			(xy 334.01 215.9) (xy 337.82 215.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0382396b-d4f7-45d6-bd92-4817b328419e")
+		(uuid "026b9bb5-71ed-404a-9f15-dc8292929bd6")
 	)
 	(wire
 		(pts
-			(xy 43.18 82.55) (xy 39.37 82.55)
+			(xy 243.84 215.9) (xy 247.65 215.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "04145fb3-9211-4df4-9281-983b97832f64")
+		(uuid "04ad0fec-e670-4357-beff-a1d170b82beb")
 	)
 	(wire
 		(pts
-			(xy 43.18 110.49) (xy 39.37 110.49)
+			(xy 49.53 86.36) (xy 53.34 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "05d21877-a927-4e03-9446-b927cb123bf7")
+		(uuid "05045ed2-e883-4be4-8134-b6b65e135b9d")
 	)
 	(wire
 		(pts
-			(xy 259.08 110.49) (xy 255.27 110.49)
+			(xy 364.49 165.1) (xy 368.3 165.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "05f5e119-6cfc-4eb6-9c09-d0975a859733")
+		(uuid "064bb35c-53b1-4d46-92a7-921d2a47e458")
 	)
 	(wire
 		(pts
-			(xy 168.91 144.78) (xy 165.1 144.78)
+			(xy 334.01 116.84) (xy 337.82 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "065c17eb-e83b-4669-baa1-feb5fa0e378f")
+		(uuid "08bebc34-96a9-46b4-b6a7-23a224f9125c")
 	)
 	(wire
 		(pts
-			(xy 259.08 91.44) (xy 255.27 91.44)
+			(xy 170.18 226.06) (xy 173.99 226.06)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "06b8ceb4-f6a7-472b-a0b6-6fe46db2c397")
+		(uuid "098efe38-f115-4ee1-b354-ead84c5b5f5e")
 	)
 	(wire
 		(pts
-			(xy 127 91.44) (xy 123.19 91.44)
+			(xy 116.84 92.71) (xy 113.03 92.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "07274bbb-c1d8-4b69-a231-ed124070ccb3")
+		(uuid "0a510c39-4bfe-4ee7-8cf5-87a6d87d20b4")
 	)
 	(wire
 		(pts
-			(xy 127 64.77) (xy 123.19 64.77)
+			(xy 170.18 101.6) (xy 173.99 101.6)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "074c9c99-774f-47e5-b64b-a349bb83cd05")
+		(uuid "0a566e41-999f-43e3-88c2-7b6b63322918")
 	)
 	(wire
 		(pts
-			(xy 127 113.03) (xy 123.19 113.03)
+			(xy 208.28 54.61) (xy 212.09 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0a060ca0-4cda-4ce1-963b-ab66b0a633ec")
+		(uuid "0b6666ac-97a2-4db2-b1ec-43046cbbe1fc")
 	)
 	(wire
 		(pts
-			(xy 85.09 116.84) (xy 81.28 116.84)
+			(xy 337.82 219.71) (xy 334.01 219.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "13a3ce55-a7d8-41bf-bc06-ac8d8cad3a53")
+		(uuid "0e03dc2f-24f3-4b1f-b4cc-b56b188d7b68")
 	)
 	(wire
 		(pts
-			(xy 39.37 29.21) (xy 43.18 29.21)
+			(xy 247.65 222.25) (xy 243.84 222.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "15619159-d113-4f78-ac59-9a647c922db1")
+		(uuid "1155cf0f-05cc-439f-92fd-3fe4895a8fe8")
 	)
 	(wire
 		(pts
-			(xy 212.09 82.55) (xy 208.28 82.55)
+			(xy 208.28 199.39) (xy 212.09 199.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "16486be0-5a1b-463e-9799-68d420eb3a09")
+		(uuid "12b25db5-fc96-4be5-aca9-05f2ed91211a")
 	)
 	(wire
 		(pts
-			(xy 168.91 138.43) (xy 165.1 138.43)
+			(xy 82.55 135.89) (xy 86.36 135.89)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "16c16b12-dd68-4f28-8ebf-e920a56379a5")
+		(uuid "13f13c07-2f67-42b0-9a4b-1648fdc8f10c")
 	)
 	(wire
 		(pts
-			(xy 212.09 22.86) (xy 208.28 22.86)
+			(xy 170.18 165.1) (xy 173.99 165.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "17521496-62b4-4785-b120-1f1d7d669071")
+		(uuid "1480e887-5f0f-447b-a742-0a8a8b18ed70")
 	)
 	(wire
 		(pts
-			(xy 168.91 25.4) (xy 165.1 25.4)
+			(xy 212.09 60.96) (xy 208.28 60.96)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "19990ab2-d79c-4714-a551-6809c0072af8")
+		(uuid "14a115a0-d77e-4070-8338-a1d75f46af67")
 	)
 	(wire
 		(pts
-			(xy 127 31.75) (xy 123.19 31.75)
+			(xy 364.49 101.6) (xy 368.3 101.6)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "19e73ec9-c6a3-48d4-8a98-6f6ee54c37be")
+		(uuid "1603a154-8300-42f7-a08d-79f937324873")
 	)
 	(wire
 		(pts
-			(xy 212.09 113.03) (xy 208.28 113.03)
+			(xy 208.28 260.35) (xy 212.09 260.35)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1aeb1208-995c-42ea-ad84-70c60fc1b853")
+		(uuid "1692c347-0d4f-4fa1-b65e-3f968beefee1")
 	)
 	(wire
 		(pts
-			(xy 168.91 147.32) (xy 165.1 147.32)
+			(xy 82.55 114.3) (xy 86.36 114.3)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1bbab8fb-91ae-4594-ba63-311843e78673")
+		(uuid "1843460a-50d7-4e96-a493-147ef466c42c")
 	)
 	(wire
 		(pts
-			(xy 259.08 22.86) (xy 255.27 22.86)
+			(xy 337.82 33.02) (xy 334.01 33.02)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1bbec768-7d92-459c-99be-aad74d856344")
+		(uuid "1a64a27b-0607-47af-933f-6bea95b265e7")
 	)
 	(wire
 		(pts
-			(xy 127 25.4) (xy 123.19 25.4)
+			(xy 173.99 156.21) (xy 170.18 156.21)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1fa319cc-7eac-4494-bfae-98c70792404b")
+		(uuid "1aa3e363-216b-4353-9424-61b589eefd3a")
 	)
 	(wire
 		(pts
-			(xy 259.08 62.23) (xy 255.27 62.23)
+			(xy 364.49 152.4) (xy 368.3 152.4)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "21869a4e-d500-4398-9310-4937f3d211df")
+		(uuid "1b207cc9-31ac-45f7-90d9-42ca5278eeb3")
 	)
 	(wire
 		(pts
-			(xy 85.09 64.77) (xy 81.28 64.77)
+			(xy 208.28 127) (xy 212.09 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "270390df-18fe-4f09-bf1d-f13abb003d6d")
+		(uuid "1b7a7637-2b2a-4395-b4e2-2f35009f2f08")
 	)
 	(wire
 		(pts
-			(xy 39.37 31.75) (xy 43.18 31.75)
+			(xy 170.18 213.36) (xy 173.99 213.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2748aaa3-fd20-42cc-924d-2d5fb06d91d5")
+		(uuid "1fc42ee2-1253-4e84-95fb-1fd9d507729a")
 	)
 	(wire
 		(pts
-			(xy 259.08 119.38) (xy 255.27 119.38)
+			(xy 334.01 24.13) (xy 337.82 24.13)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "285fe885-e8a3-4ade-8249-b25263cde4fb")
+		(uuid "2169f4d5-f813-4535-be3e-b2d4ad2af899")
 	)
 	(wire
 		(pts
-			(xy 168.91 140.97) (xy 165.1 140.97)
+			(xy 113.03 101.6) (xy 116.84 101.6)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2a5ca54d-27e9-44d5-8ce5-757800ba0d3c")
+		(uuid "218cc33d-9cf4-41fd-9b2c-6246fa49ddf2")
 	)
 	(wire
 		(pts
-			(xy 168.91 82.55) (xy 165.1 82.55)
+			(xy 208.28 133.35) (xy 212.09 133.35)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2adcbd97-2f08-4d52-b698-344ff570e4f1")
+		(uuid "22156260-66dc-487e-a4ae-9786e1e49eae")
 	)
 	(wire
 		(pts
-			(xy 259.08 116.84) (xy 255.27 116.84)
+			(xy 300.99 149.86) (xy 304.8 149.86)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2be03ee2-223f-480c-8354-a187c6e3ee24")
+		(uuid "2541246d-ca86-478d-b0c7-ae1ff7279b5b")
 	)
 	(wire
 		(pts
-			(xy 259.08 29.21) (xy 255.27 29.21)
+			(xy 208.28 180.34) (xy 212.09 180.34)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2fe11e08-2e87-4cf6-801a-c4c046ddff98")
+		(uuid "259766be-79ef-4e32-ad38-091add71f756")
 	)
 	(wire
 		(pts
-			(xy 127 85.09) (xy 123.19 85.09)
+			(xy 368.3 95.25) (xy 364.49 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "31d93222-6873-4a7a-a3c9-7a840e8d4271")
+		(uuid "25f01651-0f98-4ed5-bff0-8d05e5f2023f")
 	)
 	(wire
 		(pts
-			(xy 212.09 62.23) (xy 208.28 62.23)
+			(xy 300.99 165.1) (xy 304.8 165.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "331edda7-1ace-4383-8a2a-9f0e573b4d86")
+		(uuid "282ba5a7-7e2d-45bf-bc73-9b839b381bf2")
 	)
 	(wire
 		(pts
-			(xy 85.09 29.21) (xy 81.28 29.21)
+			(xy 337.82 30.48) (xy 334.01 30.48)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "35cf01a4-6abe-4b6e-aa45-6dc48d2dd65e")
+		(uuid "292850c0-89e2-4e4a-beb6-98a161ae198c")
 	)
 	(wire
 		(pts
-			(xy 259.08 113.03) (xy 255.27 113.03)
+			(xy 208.28 196.85) (xy 212.09 196.85)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "38c872b7-18d0-4c64-9374-3bfa9d8ec3a7")
+		(uuid "2c4ef670-b892-4f5f-a5e1-7ca878103ff2")
 	)
 	(wire
 		(pts
-			(xy 168.91 116.84) (xy 165.1 116.84)
+			(xy 334.01 135.89) (xy 337.82 135.89)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3bf8c6fe-1150-42e9-a297-b8f28063d7c6")
+		(uuid "2dbca41b-3df9-49b9-b922-1cafd31eff17")
 	)
 	(wire
 		(pts
-			(xy 127 35.56) (xy 123.19 35.56)
+			(xy 208.28 190.5) (xy 212.09 190.5)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3e800a61-8cca-42c8-9ceb-10dd248b82d1")
+		(uuid "2e7a961b-135e-4087-a026-2417a514f82c")
 	)
 	(wire
 		(pts
-			(xy 85.09 82.55) (xy 81.28 82.55)
+			(xy 243.84 162.56) (xy 247.65 162.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "41274d2f-03f0-4160-8da4-7a5e9c3a99b6")
+		(uuid "2f65b6e4-5c91-41f4-9466-49e97c1c5a37")
 	)
 	(wire
 		(pts
-			(xy 168.91 29.21) (xy 165.1 29.21)
+			(xy 334.01 36.83) (xy 337.82 36.83)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "43229ee2-ff09-44cc-bb70-ca584adff389")
+		(uuid "31e20dd1-41db-47ae-8a87-21406184f08c")
 	)
 	(wire
 		(pts
-			(xy 43.18 147.32) (xy 39.37 147.32)
+			(xy 243.84 213.36) (xy 247.65 213.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4368417f-2bb4-4596-ba17-c395f39d6b20")
+		(uuid "3448f176-296d-4888-a84c-8bc38916ff54")
 	)
 	(wire
 		(pts
-			(xy 43.18 55.88) (xy 39.37 55.88)
+			(xy 243.84 165.1) (xy 247.65 165.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "48acee9a-c2f1-4bb9-b9be-e71e0ae1843f")
+		(uuid "35ccdff4-e58c-44f7-bfb4-eb74e95af75a")
 	)
 	(wire
 		(pts
-			(xy 168.91 119.38) (xy 165.1 119.38)
+			(xy 247.65 30.48) (xy 243.84 30.48)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "49f03da7-4dbc-46e0-beaf-703a65275b09")
+		(uuid "3677f4c1-6c5f-42ec-b0ba-fa5e398561d6")
 	)
 	(wire
 		(pts
-			(xy 127 22.86) (xy 123.19 22.86)
+			(xy 86.36 33.02) (xy 82.55 33.02)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4a9ba0b2-0ea6-44a0-b3a4-ca800d030d6e")
+		(uuid "36b1902e-5f32-438c-92a5-aff2a4716131")
 	)
 	(wire
 		(pts
-			(xy 168.91 55.88) (xy 165.1 55.88)
+			(xy 247.65 92.71) (xy 243.84 92.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4d2b17cf-e188-4560-8a22-66c617640b0c")
+		(uuid "39b4f739-d5b8-4eef-b4b7-c899762b018f")
 	)
 	(wire
 		(pts
-			(xy 259.08 88.9) (xy 255.27 88.9)
+			(xy 113.03 86.36) (xy 116.84 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4df2295b-96b3-41e5-80d6-dac38c71db14")
+		(uuid "3ec1179e-aba9-4115-b785-c2ab95399da3")
 	)
 	(wire
 		(pts
-			(xy 168.91 38.1) (xy 165.1 38.1)
+			(xy 208.28 71.12) (xy 212.09 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4f53113b-630b-4c61-8197-8368b4465377")
+		(uuid "4137a8f8-0d72-4288-bf79-32338a44a108")
 	)
 	(wire
 		(pts
-			(xy 127 138.43) (xy 123.19 138.43)
+			(xy 243.84 39.37) (xy 247.65 39.37)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "50324a64-b33c-4e12-b49b-570b77668730")
+		(uuid "45c09b50-7cfd-423b-859f-3fc0f73e7de0")
 	)
 	(wire
 		(pts
-			(xy 39.37 64.77) (xy 43.18 64.77)
+			(xy 116.84 95.25) (xy 113.03 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "518cd264-39dc-4353-853d-d6ea0b6ae37d")
+		(uuid "4699c497-c560-4b9e-bd4c-616ab7877bf2")
 	)
 	(wire
 		(pts
-			(xy 168.91 64.77) (xy 165.1 64.77)
+			(xy 300.99 99.06) (xy 304.8 99.06)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "52b991c2-433b-4626-8c60-4fa9c7589c69")
+		(uuid "46c5052b-f30d-4db1-ae39-e478df942a2c")
 	)
 	(wire
 		(pts
-			(xy 259.08 55.88) (xy 255.27 55.88)
+			(xy 243.84 86.36) (xy 247.65 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5329a6e6-b428-4e3d-aeb4-aed428e419a4")
+		(uuid "492c8624-c704-4afb-8636-7dc23952eb69")
 	)
 	(wire
 		(pts
-			(xy 85.09 62.23) (xy 81.28 62.23)
+			(xy 304.8 92.71) (xy 300.99 92.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "538709da-57b7-420a-9340-87417c74a6e9")
+		(uuid "49dc9dfb-1772-44dc-a66d-619f9383f8d8")
 	)
 	(wire
 		(pts
-			(xy 168.91 31.75) (xy 165.1 31.75)
+			(xy 116.84 156.21) (xy 113.03 156.21)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "568d31fc-5c57-42ff-9d52-24581efc54d5")
+		(uuid "4ba72836-dba8-4a36-b4e2-dd979093cf57")
 	)
 	(wire
 		(pts
-			(xy 127 147.32) (xy 123.19 147.32)
+			(xy 82.55 226.06) (xy 86.36 226.06)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5b4a4956-1497-49cf-bbfc-df6f04c6e99b")
+		(uuid "4ccd4375-d676-42c8-84ce-eb817171d18f")
 	)
 	(wire
 		(pts
-			(xy 85.09 91.44) (xy 81.28 91.44)
+			(xy 304.8 156.21) (xy 300.99 156.21)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "637151c0-791c-4607-a18a-930cbd6cb744")
+		(uuid "4d772a31-02db-4cec-839b-ba8103787a64")
 	)
 	(wire
 		(pts
-			(xy 127 55.88) (xy 123.19 55.88)
+			(xy 208.28 114.3) (xy 212.09 114.3)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "63cfb12d-dd6f-4a6d-a47f-a3d458f8f9b9")
+		(uuid "52ce1ed2-6a4d-4c7d-bf7c-c135fc712714")
 	)
 	(wire
 		(pts
-			(xy 259.08 31.75) (xy 255.27 31.75)
+			(xy 113.03 88.9) (xy 116.84 88.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "644ddfeb-7adc-4549-83ad-01f86c249cf8")
+		(uuid "540e2cdf-a8f5-4f8b-94ba-d2d33e1cc430")
 	)
 	(wire
 		(pts
-			(xy 39.37 58.42) (xy 43.18 58.42)
+			(xy 82.55 133.35) (xy 86.36 133.35)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "64644ed0-6490-4421-910b-7d3d04b0d788")
+		(uuid "58b210bc-199d-4d52-aaad-a55efbc623fa")
 	)
 	(wire
 		(pts
-			(xy 85.09 119.38) (xy 81.28 119.38)
+			(xy 208.28 52.07) (xy 212.09 52.07)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6491978a-8035-41eb-9257-55292049f537")
+		(uuid "5c92a700-c2a2-48be-a74b-baa30e3cd1de")
 	)
 	(wire
 		(pts
-			(xy 39.37 35.56) (xy 43.18 35.56)
+			(xy 243.84 152.4) (xy 247.65 152.4)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6a68eeaa-618f-44ea-9beb-91fd1c2fb666")
+		(uuid "5ccda1cc-4aca-40db-aa96-17ed4423df19")
 	)
 	(wire
 		(pts
-			(xy 127 58.42) (xy 123.19 58.42)
+			(xy 300.99 86.36) (xy 304.8 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6b12e79f-6d8c-4f1c-8be3-043698a9513d")
+		(uuid "5e9fe616-8f04-4517-a367-5079dd473d74")
 	)
 	(wire
 		(pts
-			(xy 168.91 113.03) (xy 165.1 113.03)
+			(xy 243.84 101.6) (xy 247.65 101.6)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7416da1b-e233-458f-88ed-25296eb2f188")
+		(uuid "5ecb0a15-0ecc-4271-be2b-830d1283ca7e")
 	)
 	(wire
 		(pts
-			(xy 85.09 58.42) (xy 81.28 58.42)
+			(xy 173.99 30.48) (xy 170.18 30.48)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "74f479b6-1a01-49ba-a1b2-0737f01f9afe")
+		(uuid "5ef082e7-9640-405f-b5b0-f866aee396f9")
 	)
 	(wire
 		(pts
-			(xy 127 116.84) (xy 123.19 116.84)
+			(xy 86.36 120.65) (xy 82.55 120.65)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7bbdbd45-26b3-4411-be8b-c1cc864b3634")
+		(uuid "5ef31b7c-5c3d-4c59-ad34-739955232cdd")
 	)
 	(wire
 		(pts
-			(xy 168.91 88.9) (xy 165.1 88.9)
+			(xy 53.34 158.75) (xy 49.53 158.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7deccc04-f62a-42a8-9b10-8f89a0186c10")
+		(uuid "5fbbb6bc-7fb4-456c-bbf1-9fb2d313032d")
 	)
 	(wire
 		(pts
-			(xy 212.09 64.77) (xy 208.28 64.77)
+			(xy 49.53 152.4) (xy 53.34 152.4)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "800a743f-b9e2-4f5c-bbb6-d37b5102c9ca")
+		(uuid "61bbc169-224c-4f3c-b9fa-2dcbc13f29be")
 	)
 	(wire
 		(pts
-			(xy 212.09 25.4) (xy 208.28 25.4)
+			(xy 173.99 219.71) (xy 170.18 219.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "84718b23-6101-4d1a-a852-59da41d71c5c")
+		(uuid "631a1740-70c7-40b2-89bd-f6f9bea9e62f")
 	)
 	(wire
 		(pts
-			(xy 259.08 58.42) (xy 255.27 58.42)
+			(xy 212.09 184.15) (xy 208.28 184.15)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "86758886-0aa3-4fed-9368-c64ffb084b6a")
+		(uuid "64c8cbdb-93e6-4e6a-82ee-94b20063c616")
 	)
 	(wire
 		(pts
-			(xy 212.09 119.38) (xy 208.28 119.38)
+			(xy 368.3 92.71) (xy 364.49 92.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8948097c-d20c-4366-b13a-15a71df1b162")
+		(uuid "65968cd4-6e66-45c2-b83b-e70b3457fd99")
 	)
 	(wire
 		(pts
-			(xy 85.09 147.32) (xy 81.28 147.32)
+			(xy 208.28 67.31) (xy 212.09 67.31)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "89c9f87a-c3e4-4900-81bf-4917c8a11480")
+		(uuid "663cffdd-8cbf-46a0-b656-f8cbb3b74ad6")
 	)
 	(wire
 		(pts
-			(xy 259.08 35.56) (xy 255.27 35.56)
+			(xy 49.53 88.9) (xy 53.34 88.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8b3dc0a3-b7ab-41c0-b539-cc6cf97293c0")
+		(uuid "66b64ffc-4797-4c40-9e4a-fef5b6924e66")
 	)
 	(wire
 		(pts
-			(xy 43.18 88.9) (xy 39.37 88.9)
+			(xy 208.28 64.77) (xy 212.09 64.77)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8cf601f5-a595-453b-b1b4-a312c70e6ab2")
+		(uuid "66c4f7bc-2557-4a9d-aea9-230e4a86689d")
 	)
 	(wire
 		(pts
-			(xy 127 82.55) (xy 123.19 82.55)
+			(xy 173.99 33.02) (xy 170.18 33.02)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8f4bf772-76e4-471d-be76-1cc50c4d0506")
+		(uuid "674697c3-111e-47e1-8c37-772c85158d62")
 	)
 	(wire
 		(pts
-			(xy 259.08 38.1) (xy 255.27 38.1)
+			(xy 212.09 120.65) (xy 208.28 120.65)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9283932f-ad4e-4fad-95d3-c5b1b5ecda42")
+		(uuid "6af7d428-7e10-4ede-9812-6303ef77bbd3")
 	)
 	(wire
 		(pts
-			(xy 85.09 138.43) (xy 81.28 138.43)
+			(xy 170.18 152.4) (xy 173.99 152.4)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "92a63f99-2184-4a0f-af3e-3f31bd41f086")
+		(uuid "6d639b6c-15b1-4547-a868-881fe5d6136d")
 	)
 	(wire
 		(pts
-			(xy 259.08 82.55) (xy 255.27 82.55)
+			(xy 368.3 156.21) (xy 364.49 156.21)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9587df7f-1a27-4198-97ee-7bb4a50b9b33")
+		(uuid "6e164bc4-a4b9-4b86-8c04-905bb7fdee54")
 	)
 	(wire
 		(pts
-			(xy 168.91 62.23) (xy 165.1 62.23)
+			(xy 208.28 129.54) (xy 212.09 129.54)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "962d1414-df10-4eec-8dda-c6a362c51536")
+		(uuid "6e2df6c8-3f6a-4125-837a-dcd74a24e15b")
 	)
 	(wire
 		(pts
-			(xy 85.09 144.78) (xy 81.28 144.78)
+			(xy 86.36 219.71) (xy 82.55 219.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "972916b0-a08d-44fa-bf7c-7d1bc5ed8514")
+		(uuid "6fae23bf-86d1-436f-8d7a-b42db1832f83")
+	)
+	(wire
+		(pts
+			(xy 243.84 36.83) (xy 247.65 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "707cc483-a72d-4a97-864a-0a01dd471b4b")
+	)
+	(wire
+		(pts
+			(xy 86.36 30.48) (xy 82.55 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71ce87ce-cf5b-47f2-8b83-fea01ff48707")
+	)
+	(wire
+		(pts
+			(xy 300.99 88.9) (xy 304.8 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73554e0e-ae06-4d0e-bfd7-1c4a7bc7ad52")
+	)
+	(wire
+		(pts
+			(xy 364.49 162.56) (xy 368.3 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73687113-050d-4083-bc8c-d884286b0d26")
+	)
+	(wire
+		(pts
+			(xy 113.03 162.56) (xy 116.84 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "776a1383-3ee2-4a8a-8c98-7d77371e29f1")
 	)
 	(wire
 		(pts
@@ -768,1556 +818,2067 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "9826a96f-98e5-43f8-ace0-4813caa55fa8")
+		(uuid "7ab7831d-6522-4fb3-96ed-9b4a47cce394")
 	)
 	(wire
 		(pts
-			(xy 85.09 31.75) (xy 81.28 31.75)
+			(xy 82.55 127) (xy 86.36 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "994b376f-20b7-460c-9a2f-432bb18a6409")
+		(uuid "7b4e8157-3a2d-4d46-93b5-f4ce06d03b85")
 	)
 	(wire
 		(pts
-			(xy 85.09 140.97) (xy 81.28 140.97)
+			(xy 170.18 24.13) (xy 173.99 24.13)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a7d31b14-140f-4988-9374-3cb8503f0db9")
+		(uuid "7cab890a-0c06-4a3d-89c3-d38a3727ab79")
 	)
 	(wire
 		(pts
-			(xy 85.09 35.56) (xy 81.28 35.56)
+			(xy 113.03 165.1) (xy 116.84 165.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a96b4c36-db79-4290-8fcc-f2f888ac5cfb")
+		(uuid "7f03f0a0-1dcc-4e81-b867-34734206afe5")
 	)
 	(wire
 		(pts
-			(xy 212.09 35.56) (xy 208.28 35.56)
+			(xy 212.09 123.19) (xy 208.28 123.19)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "aa4696a2-7a9c-4961-9ed4-9b0ee6923a41")
+		(uuid "7f09bf62-a45f-4f9e-969c-a6b49452e18e")
 	)
 	(wire
 		(pts
-			(xy 39.37 140.97) (xy 43.18 140.97)
+			(xy 170.18 162.56) (xy 173.99 162.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b58655b5-c2d9-41ab-af39-c2a5fd563ad9")
+		(uuid "825fc1c9-3d38-4421-9114-af13a8c01d63")
 	)
 	(wire
 		(pts
-			(xy 212.09 85.09) (xy 208.28 85.09)
+			(xy 334.01 114.3) (xy 337.82 114.3)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b5ba839b-c994-4f03-bb2e-2801f1e9511c")
+		(uuid "85300ba9-dd8a-4fd9-9dff-0252609fb0a0")
 	)
 	(wire
 		(pts
-			(xy 259.08 85.09) (xy 255.27 85.09)
+			(xy 82.55 36.83) (xy 86.36 36.83)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b76cb774-8e62-4a13-a1eb-660475b215ae")
+		(uuid "869faa97-aece-49c3-8abe-4e5ad3ce9f1a")
 	)
 	(wire
 		(pts
-			(xy 212.09 91.44) (xy 208.28 91.44)
+			(xy 53.34 92.71) (xy 49.53 92.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b80c2a1e-11b2-4688-a93d-9f49b4f06208")
+		(uuid "88fe43dd-0b6f-4198-969b-3459751feda2")
 	)
 	(wire
 		(pts
-			(xy 85.09 38.1) (xy 81.28 38.1)
+			(xy 208.28 73.66) (xy 212.09 73.66)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b990091a-04c5-4196-9708-2a1fb6178e63")
+		(uuid "89e7c72b-1e48-43e9-8b35-25677aa18c54")
 	)
 	(wire
 		(pts
-			(xy 85.09 85.09) (xy 81.28 85.09)
+			(xy 53.34 156.21) (xy 49.53 156.21)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bbf9eba8-a8c1-4c0b-9123-215987555664")
+		(uuid "8fd2b0be-9779-4ab0-81cc-fb7cc369a67f")
 	)
 	(wire
 		(pts
-			(xy 127 144.78) (xy 123.19 144.78)
+			(xy 243.84 149.86) (xy 247.65 149.86)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bcca3574-5b1f-42c7-b005-119b6a31b8a2")
+		(uuid "90116d64-29e7-47ea-9972-c4dff323de87")
 	)
 	(wire
 		(pts
-			(xy 85.09 25.4) (xy 81.28 25.4)
+			(xy 208.28 254) (xy 212.09 254)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bdf3870a-33d1-4abe-a32e-a4a419d1c1e5")
+		(uuid "908a440e-5334-4820-a4ac-c2d18abdc985")
 	)
 	(wire
 		(pts
-			(xy 212.09 110.49) (xy 208.28 110.49)
+			(xy 337.82 123.19) (xy 334.01 123.19)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "be8b188d-7677-4ad0-8898-aa9b168d062a")
+		(uuid "928b8599-27c8-4abb-8f62-c8111ef61c32")
 	)
 	(wire
 		(pts
-			(xy 212.09 38.1) (xy 208.28 38.1)
+			(xy 170.18 26.67) (xy 173.99 26.67)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bfdaadf0-aedd-4306-bfe1-3d7a885993ea")
+		(uuid "9380e470-1c9b-493d-a348-230cd0567249")
 	)
 	(wire
 		(pts
-			(xy 85.09 55.88) (xy 81.28 55.88)
+			(xy 247.65 95.25) (xy 243.84 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c121fa21-21d4-47a6-b77c-d28c35c213df")
+		(uuid "94ffdf5d-2bee-48d5-a0a2-4df695a79f39")
 	)
 	(wire
 		(pts
-			(xy 43.18 116.84) (xy 39.37 116.84)
+			(xy 82.55 213.36) (xy 86.36 213.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c20f6b18-86ac-4481-8ef4-d760e557eda0")
+		(uuid "97cf5f53-7409-4080-acb0-d0dceadf82f0")
 	)
 	(wire
 		(pts
-			(xy 43.18 138.43) (xy 39.37 138.43)
+			(xy 173.99 222.25) (xy 170.18 222.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c2d8fe76-eba0-484e-a9c3-4c18b69ec14f")
+		(uuid "97ddedc8-6188-4360-b1ea-8949cb71b0fc")
 	)
 	(wire
 		(pts
-			(xy 127 110.49) (xy 123.19 110.49)
+			(xy 170.18 228.6) (xy 173.99 228.6)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c4492390-6ab4-4589-9b07-609505cdad24")
+		(uuid "99c604b3-1484-4f33-954d-48c1e04e806d")
 	)
 	(wire
 		(pts
-			(xy 85.09 22.86) (xy 81.28 22.86)
+			(xy 300.99 162.56) (xy 304.8 162.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c5ffb7e7-6214-4c79-a755-4e5abffafd19")
+		(uuid "a042e160-331f-46e4-9740-aeeb6cc3243e")
 	)
 	(wire
 		(pts
-			(xy 127 62.23) (xy 123.19 62.23)
+			(xy 243.84 24.13) (xy 247.65 24.13)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c8fa3199-04fd-4af6-91e0-703702d1b22e")
+		(uuid "a30a8c7f-9e18-4697-9ce1-ee196f6674f1")
 	)
 	(wire
 		(pts
-			(xy 39.37 62.23) (xy 43.18 62.23)
+			(xy 300.99 101.6) (xy 304.8 101.6)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cd8565cd-fb6c-4f59-aeab-16687b35f3b0")
+		(uuid "a390b64b-1547-4f0e-a05a-407306bbaa41")
 	)
 	(wire
 		(pts
-			(xy 168.91 58.42) (xy 165.1 58.42)
+			(xy 82.55 215.9) (xy 86.36 215.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cecce09f-2906-45cd-992e-9d8953e9fc63")
+		(uuid "a5d15792-3074-47c1-8468-e4f68dff4cad")
 	)
 	(wire
 		(pts
-			(xy 127 140.97) (xy 123.19 140.97)
+			(xy 82.55 228.6) (xy 86.36 228.6)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cf1aefc4-9702-4e7d-9051-b5683cfed02c")
+		(uuid "a99195ad-6bc9-4339-954d-94ce74d2f74e")
 	)
 	(wire
 		(pts
-			(xy 168.91 35.56) (xy 165.1 35.56)
+			(xy 334.01 228.6) (xy 337.82 228.6)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cf49e9ca-0907-4bb1-b790-f33a56b84f37")
+		(uuid "a9e88c2f-9f2c-423d-97a1-dd3891a0081d")
 	)
 	(wire
 		(pts
-			(xy 39.37 38.1) (xy 43.18 38.1)
+			(xy 170.18 36.83) (xy 173.99 36.83)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d34fb49b-6bfb-4d9c-be2e-9e8f49ed124c")
+		(uuid "aa2f4336-139c-496c-be7e-242152dbedd4")
 	)
 	(wire
 		(pts
-			(xy 168.91 22.86) (xy 165.1 22.86)
+			(xy 49.53 162.56) (xy 53.34 162.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d37f5349-30e1-489a-92e4-0fd2aa4b3e81")
+		(uuid "ac0b735b-6d71-4f84-96ea-f7746f559676")
 	)
 	(wire
 		(pts
-			(xy 259.08 64.77) (xy 255.27 64.77)
+			(xy 170.18 39.37) (xy 173.99 39.37)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d45b1ff7-7748-4aaa-ad7c-c774f43d1dc2")
+		(uuid "ac4f7165-4774-4d7f-8006-b07a0a8383ee")
 	)
 	(wire
 		(pts
-			(xy 85.09 88.9) (xy 81.28 88.9)
+			(xy 243.84 26.67) (xy 247.65 26.67)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d4ec3ac5-b23a-4b09-aeae-6660ceb350aa")
+		(uuid "ae85c8a8-90e4-446f-b42c-419ea1e22e91")
 	)
 	(wire
 		(pts
-			(xy 168.91 85.09) (xy 165.1 85.09)
+			(xy 243.84 88.9) (xy 247.65 88.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d586552d-d9a9-4802-be20-a0001104be46")
+		(uuid "aea1a6df-3fde-480c-b247-a626ef96a6d5")
 	)
 	(wire
 		(pts
-			(xy 168.91 110.49) (xy 165.1 110.49)
+			(xy 212.09 186.69) (xy 208.28 186.69)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d92c3025-1122-4db2-954d-61c2e46321d1")
+		(uuid "afa5d9e4-7493-454f-902b-3af4b48e793b")
 	)
 	(wire
 		(pts
-			(xy 168.91 91.44) (xy 165.1 91.44)
+			(xy 334.01 26.67) (xy 337.82 26.67)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d95de269-fc86-4135-bccf-71c9b5565187")
+		(uuid "b234e9a8-352d-49e9-882f-6010df53a812")
 	)
 	(wire
 		(pts
-			(xy 43.18 144.78) (xy 39.37 144.78)
+			(xy 208.28 241.3) (xy 212.09 241.3)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "db953469-7edf-4dd7-a925-00b2cab6100b")
+		(uuid "b4748e7d-fc09-43be-b655-3e41b459f319")
 	)
 	(wire
 		(pts
-			(xy 212.09 116.84) (xy 208.28 116.84)
+			(xy 368.3 158.75) (xy 364.49 158.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "dcd58fa1-bb9b-454c-9a3f-0b9b9b3ce057")
+		(uuid "b6541877-466b-4324-a771-f73c94bea329")
 	)
 	(wire
 		(pts
-			(xy 127 38.1) (xy 123.19 38.1)
+			(xy 49.53 101.6) (xy 53.34 101.6)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "dcdba3e5-c23a-4841-81fb-dc1089f12ff5")
+		(uuid "b6c19603-0092-47f1-bac7-8ee5c5e73c70")
 	)
 	(wire
 		(pts
-			(xy 43.18 91.44) (xy 39.37 91.44)
+			(xy 208.28 177.8) (xy 212.09 177.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "df98cae1-93c1-4d79-9f72-e596ae655f42")
+		(uuid "b757e24a-a6ab-4c50-bf92-7554b24c339f")
 	)
 	(wire
 		(pts
-			(xy 43.18 22.86) (xy 39.37 22.86)
+			(xy 208.28 262.89) (xy 212.09 262.89)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e0b36e14-c4a5-4c57-9305-b4cd266bc7e8")
+		(uuid "b7c9f74a-035a-48e9-bcc2-877fdeeb8dd1")
 	)
 	(wire
 		(pts
-			(xy 212.09 31.75) (xy 208.28 31.75)
+			(xy 49.53 149.86) (xy 53.34 149.86)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e320a86f-26b0-4091-9207-10032d37c158")
+		(uuid "b7ce0748-5aae-4141-b2a2-6cdac0b1c6a4")
 	)
 	(wire
 		(pts
-			(xy 127 88.9) (xy 123.19 88.9)
+			(xy 116.84 158.75) (xy 113.03 158.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e664ff9f-6bac-4d8d-9046-b6c8c0588b2b")
+		(uuid "b7f3eb19-bb95-4858-ae2f-c2630a17c84f")
 	)
 	(wire
 		(pts
-			(xy 43.18 119.38) (xy 39.37 119.38)
+			(xy 113.03 99.06) (xy 116.84 99.06)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ee1e9527-af25-41a1-8476-704ef5d0143a")
+		(uuid "b8e1a0e5-87b4-4640-9826-4d61297851bb")
 	)
 	(wire
 		(pts
-			(xy 212.09 88.9) (xy 208.28 88.9)
+			(xy 82.55 24.13) (xy 86.36 24.13)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f2419c92-435a-45bd-aa54-09260996c4d4")
+		(uuid "ba8404e0-bfa7-4ea7-806f-7ba37c561bc7")
 	)
 	(wire
 		(pts
-			(xy 43.18 113.03) (xy 39.37 113.03)
+			(xy 364.49 86.36) (xy 368.3 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f3480a69-b593-48ec-9314-8147a40bc0dd")
+		(uuid "bb16ee70-d54c-4ab7-9f2a-c3ccc0a08e2d")
 	)
 	(wire
 		(pts
-			(xy 43.18 25.4) (xy 39.37 25.4)
+			(xy 334.01 127) (xy 337.82 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f36d514e-6c11-4048-8992-1967f3599155")
+		(uuid "bcbbede7-5310-47ea-87c2-30d5b9ceb976")
 	)
 	(wire
 		(pts
-			(xy 85.09 110.49) (xy 81.28 110.49)
+			(xy 82.55 116.84) (xy 86.36 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f6d257fe-b43f-472c-b7bf-15136117099a")
+		(uuid "bd155f60-1501-44c8-a876-5e365b0dca7d")
 	)
 	(wire
 		(pts
-			(xy 43.18 85.09) (xy 39.37 85.09)
+			(xy 82.55 39.37) (xy 86.36 39.37)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f7ff40ed-429d-429a-9c43-fa58d4421ac9")
+		(uuid "be2551ad-3d48-4577-84ff-0e362c77ebbc")
 	)
 	(wire
 		(pts
-			(xy 127 29.21) (xy 123.19 29.21)
+			(xy 49.53 165.1) (xy 53.34 165.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f84bc550-d144-40f3-8cfb-ec70c9c313da")
+		(uuid "bedeea22-9be8-4ef6-802a-e74ba84fd0d1")
 	)
 	(wire
 		(pts
-			(xy 212.09 29.21) (xy 208.28 29.21)
+			(xy 170.18 149.86) (xy 173.99 149.86)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fb2b438e-e26d-463d-a448-4e0abbed1f85")
+		(uuid "c2519ad4-f9cc-4ae8-a285-49ab08504a62")
 	)
 	(wire
 		(pts
-			(xy 85.09 113.03) (xy 81.28 113.03)
+			(xy 170.18 99.06) (xy 173.99 99.06)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fd3596fe-c503-49e9-a346-8a40659d17ce")
+		(uuid "c35760dd-595d-4a95-b58c-68c79c70e368")
 	)
 	(wire
 		(pts
-			(xy 127 119.38) (xy 123.19 119.38)
+			(xy 300.99 152.4) (xy 304.8 152.4)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ffe22a6e-2f51-43fe-be06-4fee938afc01")
+		(uuid "c3d85142-a4b8-45c5-94a9-4c0fb5f7aa42")
 	)
-	(hierarchical_label "SIG_COMP_20"
+	(wire
+		(pts
+			(xy 170.18 88.9) (xy 173.99 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7dcaa72-ff82-4f1b-b032-1703cda50ea5")
+	)
+	(wire
+		(pts
+			(xy 49.53 99.06) (xy 53.34 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7f4e6ba-b9ad-4179-9558-3e6ecc836e7b")
+	)
+	(wire
+		(pts
+			(xy 208.28 256.54) (xy 212.09 256.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c99b1d2e-15b9-44b7-87c4-d9583f85f399")
+	)
+	(wire
+		(pts
+			(xy 170.18 215.9) (xy 173.99 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca302bc3-e6a1-4e94-a892-274b4e56df91")
+	)
+	(wire
+		(pts
+			(xy 247.65 158.75) (xy 243.84 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd2e2dfd-ea67-4e15-a3de-4d98ae7042b7")
+	)
+	(wire
+		(pts
+			(xy 86.36 123.19) (xy 82.55 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ceb8e6ec-2e5e-4890-a9a8-12ef1dd5497d")
+	)
+	(wire
+		(pts
+			(xy 247.65 156.21) (xy 243.84 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cef9b6f7-74cb-4aeb-aed0-58f4fe8e5202")
+	)
+	(wire
+		(pts
+			(xy 334.01 39.37) (xy 337.82 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d30f0fdd-2273-498b-96e7-aa4dcc2b6d4a")
+	)
+	(wire
+		(pts
+			(xy 337.82 120.65) (xy 334.01 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5ed176d-bec2-4797-b3a1-be49fa186f82")
+	)
+	(wire
+		(pts
+			(xy 113.03 149.86) (xy 116.84 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7e9d67b-718a-4deb-829b-96c1fb94e2f5")
+	)
+	(wire
+		(pts
+			(xy 212.09 247.65) (xy 208.28 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d837b472-6cf6-4d87-97b7-58f959d1b5eb")
+	)
+	(wire
+		(pts
+			(xy 337.82 222.25) (xy 334.01 222.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8c3b3c6-6a3a-496b-862d-df66ed4fd482")
+	)
+	(wire
+		(pts
+			(xy 173.99 95.25) (xy 170.18 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc616d8e-7603-4494-8dab-8c4c8343cf35")
+	)
+	(wire
+		(pts
+			(xy 208.28 243.84) (xy 212.09 243.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dcec98af-6781-4abf-85be-37a101ff6e8a")
+	)
+	(wire
+		(pts
+			(xy 304.8 95.25) (xy 300.99 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "deab22a1-2629-43c2-a46b-b12f97ac7a40")
+	)
+	(wire
+		(pts
+			(xy 208.28 135.89) (xy 212.09 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df09cb36-7f5f-471f-b3d9-6069242810b8")
+	)
+	(wire
+		(pts
+			(xy 243.84 99.06) (xy 247.65 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e04c0a76-2cbc-4575-b04e-c87a1dfd41ff")
+	)
+	(wire
+		(pts
+			(xy 208.28 116.84) (xy 212.09 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4feef69-b82c-4bf4-a1ff-2ae16e4b9ba9")
+	)
+	(wire
+		(pts
+			(xy 113.03 152.4) (xy 116.84 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5b6c40a-2c61-49fa-94d1-ed2227ba2504")
+	)
+	(wire
+		(pts
+			(xy 208.28 193.04) (xy 212.09 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e736da67-a3f7-4bf3-9012-45469b7b03d9")
+	)
+	(wire
+		(pts
+			(xy 173.99 158.75) (xy 170.18 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e740e4dd-2fbf-41fc-ae7f-414a412a76c7")
+	)
+	(wire
+		(pts
+			(xy 247.65 219.71) (xy 243.84 219.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e915c6e6-6830-46cc-81e3-f375e526105b")
+	)
+	(wire
+		(pts
+			(xy 173.99 92.71) (xy 170.18 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebf2468f-7217-4569-b98d-05b0eca5ea95")
+	)
+	(wire
+		(pts
+			(xy 212.09 250.19) (xy 208.28 250.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ecaa85f5-3a9d-4784-b4a3-bf385e99fae2")
+	)
+	(wire
+		(pts
+			(xy 334.01 133.35) (xy 337.82 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eea9647f-49c9-4964-8543-5958789197ae")
+	)
+	(wire
+		(pts
+			(xy 334.01 129.54) (xy 337.82 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eef3e68a-315f-47c4-b5f0-55182106a00b")
+	)
+	(wire
+		(pts
+			(xy 53.34 95.25) (xy 49.53 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efb08715-d6d9-4253-a1d5-ff0a4fb74e90")
+	)
+	(wire
+		(pts
+			(xy 82.55 129.54) (xy 86.36 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f013978f-063a-441a-8b33-e49ea265ad5d")
+	)
+	(wire
+		(pts
+			(xy 334.01 213.36) (xy 337.82 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f05bd555-117a-4f28-bd41-2a5296dfe406")
+	)
+	(wire
+		(pts
+			(xy 304.8 158.75) (xy 300.99 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f19ec341-189d-4b72-ae4e-a612234e09c0")
+	)
+	(wire
+		(pts
+			(xy 364.49 99.06) (xy 368.3 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f39838d2-6fcf-47bd-b3e6-4e62aef409f0")
+	)
+	(wire
+		(pts
+			(xy 247.65 33.02) (xy 243.84 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4c61d90-a1f7-4c67-8cea-4b1a1eaa413c")
+	)
+	(wire
+		(pts
+			(xy 243.84 226.06) (xy 247.65 226.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5bebfab-501c-4318-8100-b0fe0b80ae46")
+	)
+	(wire
+		(pts
+			(xy 334.01 226.06) (xy 337.82 226.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5f8f761-cb74-4170-b8df-245f8db580ad")
+	)
+	(wire
+		(pts
+			(xy 243.84 228.6) (xy 247.65 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f600fc7b-b47b-4a9f-88b3-4651a38c62ba")
+	)
+	(wire
+		(pts
+			(xy 82.55 26.67) (xy 86.36 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f65f9571-6c3b-4d5f-8055-2072609ce654")
+	)
+	(wire
+		(pts
+			(xy 170.18 86.36) (xy 173.99 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7bc10d0-cb84-47aa-a391-dea92c14a3f0")
+	)
+	(wire
+		(pts
+			(xy 86.36 222.25) (xy 82.55 222.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9c05ad7-0b03-49a7-b964-587267c2e8b1")
+	)
+	(wire
+		(pts
+			(xy 364.49 149.86) (xy 368.3 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc28bcd0-e3f4-4d16-ada7-4e85872e3bb6")
+	)
+	(hierarchical_label "BUS_EN_42"
+		(shape input)
+		(at 304.8 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "008dc7d2-ec53-485d-b063-1f407ec61321")
+	)
+	(hierarchical_label "BUS_EN_4"
+		(shape input)
+		(at 53.34 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "013eda15-7b5e-4b9c-8e4f-5086b7b5417f")
+	)
+	(hierarchical_label "DIFF_IN_+"
 		(shape output)
-		(at 168.91 64.77 0)
+		(at 86.36 120.65 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "00024f40-183e-4c70-aa9f-902874f17bb4")
+		(uuid "01a35943-8c77-4ab2-aecf-6dbad677a919")
 	)
-	(hierarchical_label "SIG_OUT_P15"
+	(hierarchical_label "BUS_EN_24"
 		(shape input)
-		(at 85.09 55.88 0)
+		(at 212.09 67.31 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "019cd5de-e33e-41ee-a54f-4ba4312dc732")
+		(uuid "02ab3888-080a-4adb-944c-736d6e096c73")
 	)
-	(hierarchical_label "SIG_COMP_23"
+	(hierarchical_label "BUS_EN_38"
+		(shape input)
+		(at 247.65 228.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0817c4b4-0028-4a9a-98a9-c59f65077d66")
+	)
+	(hierarchical_label "DIFF_IN_-"
 		(shape output)
-		(at 259.08 58.42 0)
+		(at 368.3 95.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "02392a29-af06-4bc4-9f1b-71998d32cd1d")
+		(uuid "08d15fb4-3634-48d4-bcb6-cda6ea130b32")
 	)
-	(hierarchical_label "SIG_COMP_7"
+	(hierarchical_label "BUS_EN_35"
+		(shape input)
+		(at 247.65 162.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "08f37c65-bc6a-4117-99e0-9c22d3d1c293")
+	)
+	(hierarchical_label "DIFF_OUT_+"
+		(shape input)
+		(at 368.3 149.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0930b249-e12b-4513-a05b-030139b63ffb")
+	)
+	(hierarchical_label "DIFF_OUT_-"
+		(shape input)
+		(at 247.65 26.67 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0a4ce310-3c9b-4f04-9b62-03493c7d09fa")
+	)
+	(hierarchical_label "BUS_EN_23"
+		(shape input)
+		(at 212.09 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0a7d4b8a-239d-432c-a3a6-2cf42d52e47e")
+	)
+	(hierarchical_label "BUS_EN_29"
+		(shape input)
+		(at 212.09 254 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0d150578-c0d1-4fb6-9dd9-2220ba788e15")
+	)
+	(hierarchical_label "DIFF_IN_-"
 		(shape output)
-		(at 168.91 25.4 0)
+		(at 247.65 158.75 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "0389a910-19f6-4540-ace6-fcabfe591573")
+		(uuid "0dd67875-6bbc-4c84-994b-47843cb72f78")
 	)
-	(hierarchical_label "SIG_OUT_P2"
+	(hierarchical_label "DIFF_OUT_+"
 		(shape input)
-		(at 43.18 29.21 0)
+		(at 116.84 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "079f9957-014a-414f-bfe7-2c433f83aa6f")
+		(uuid "10733429-dc6b-4a29-b1e9-9b0fb7b9179e")
 	)
-	(hierarchical_label "SIG_COMP_54"
+	(hierarchical_label "DIFF_IN_+"
 		(shape output)
-		(at 127 147.32 0)
+		(at 53.34 92.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "09367f27-8d6b-4d6a-8009-9f16267b7b7b")
+		(uuid "14fdfb26-4827-429b-a3ef-6ba2ebcead23")
 	)
-	(hierarchical_label "CRN_OUT_4"
-		(shape input)
-		(at 168.91 35.56 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "0a6f2014-26b6-46a9-8f62-1456c796e26f")
-	)
-	(hierarchical_label "SIG_OUT_P27"
-		(shape input)
-		(at 85.09 82.55 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "0c77eebd-1103-4eea-a8f7-bc56b659158c")
-	)
-	(hierarchical_label "SIG_COMP_27"
+	(hierarchical_label "DIFF_IN_-"
 		(shape output)
-		(at 85.09 85.09 0)
+		(at 337.82 33.02 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "0d57bd25-06cd-412c-9dda-8f6a7ddec745")
+		(uuid "155393b1-adfb-4dc0-be76-c884cabb08e7")
 	)
-	(hierarchical_label "CRN_IN_4"
+	(hierarchical_label "DIFF_OUT_+"
+		(shape input)
+		(at 212.09 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1611927a-8e46-4fb7-abe9-c52a77f071ae")
+	)
+	(hierarchical_label "BUS_EN_10"
+		(shape input)
+		(at 86.36 228.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "19f08680-fd11-4079-8bfc-ef2a262ee056")
+	)
+	(hierarchical_label "DIFF_OUT_-"
+		(shape input)
+		(at 337.82 215.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1bfadf43-28ad-4b29-a96a-cade1deb141b")
+	)
+	(hierarchical_label "BUS_EN_11"
+		(shape input)
+		(at 116.84 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1c9df349-eb3d-47a4-9f43-2b80c33a8e25")
+	)
+	(hierarchical_label "DIFF_OUT_-"
+		(shape input)
+		(at 304.8 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1e0d31b9-6e67-4365-8581-862a76ce6034")
+	)
+	(hierarchical_label "DIFF_IN_+"
 		(shape output)
-		(at 168.91 38.1 0)
+		(at 173.99 30.48 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "0f9c9a37-ceba-45f5-9f33-7056ffe871c3")
+		(uuid "1f951b10-a566-4318-a4a9-e8e9e6d438af")
 	)
-	(hierarchical_label "SIG_OUT_P43"
+	(hierarchical_label "DIFF_OUT_-"
 		(shape input)
-		(at 168.91 110.49 0)
+		(at 212.09 54.61 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "0fb757c2-4ec9-4f75-b9d6-d07b90441d4c")
+		(uuid "202ebb16-3b07-4b15-9e5a-3a20fd53c507")
 	)
-	(hierarchical_label "SIG_OUT_P51"
+	(hierarchical_label "BUS_EN_1"
 		(shape input)
-		(at 85.09 138.43 0)
+		(at 53.34 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "12800706-35f0-4962-9398-7e8735079d60")
+		(uuid "248f52dc-899f-4139-bd53-9afb41a76c41")
 	)
-	(hierarchical_label "SIG_COMP_18"
+	(hierarchical_label "BUS_EN_7"
+		(shape input)
+		(at 86.36 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "24b92b15-fd52-44b2-87ac-3e6a8f50655b")
+	)
+	(hierarchical_label "BUS_EN_33"
+		(shape input)
+		(at 247.65 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2764d9cb-7bfb-4c61-8565-b7bcf7223f62")
+	)
+	(hierarchical_label "DIFF_OUT_+"
+		(shape input)
+		(at 212.09 177.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "28810104-c43e-44ac-842a-b19d607f49c1")
+	)
+	(hierarchical_label "DIFF_IN_-"
 		(shape output)
-		(at 127 64.77 0)
+		(at 86.36 33.02 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "15572df6-ba42-4943-8d43-fbafe8eb7e8f")
+		(uuid "296e41a6-0fb2-4950-8609-9b5b89f8faa2")
 	)
-	(hierarchical_label "SIG_COMP_26"
+	(hierarchical_label "DIFF_IN_-"
 		(shape output)
-		(at 43.18 91.44 0)
+		(at 116.84 95.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "163b3565-2742-4a65-b0ee-ba10609b35ae")
+		(uuid "2be7510d-4893-4c73-8d1a-f7bf82b98127")
 	)
-	(hierarchical_label "SIG_COMP_36"
+	(hierarchical_label "DIFF_IN_-"
 		(shape output)
-		(at 259.08 91.44 0)
+		(at 247.65 95.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "17dd0211-eae1-4b32-bf7c-9b4a2e3aca23")
+		(uuid "2c2a518e-9682-4679-a0c2-745f0e318404")
 	)
-	(hierarchical_label "SIG_OUT_P17"
+	(hierarchical_label "BUS_EN_5"
 		(shape input)
-		(at 127 55.88 0)
+		(at 86.36 36.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "18c8459b-5366-403a-b1e8-f1bf3ed07613")
+		(uuid "2ceab6f5-5959-4ab6-bd7d-b12d6ac93978")
 	)
-	(hierarchical_label "SIG_COMP_25"
+	(hierarchical_label "DIFF_IN_-"
 		(shape output)
-		(at 43.18 85.09 0)
+		(at 247.65 222.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "1a0bb4b2-4193-4f50-830b-a41ce019235f")
+		(uuid "2d24ccee-b98e-433a-90ee-62eee1c854d5")
 	)
-	(hierarchical_label "SIG_OUT_P32"
-		(shape input)
-		(at 168.91 88.9 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "1bd2bf86-ec6d-46da-bfa8-bd28516a6f4e")
-	)
-	(hierarchical_label "SIG_OUT_P26"
-		(shape input)
-		(at 43.18 88.9 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "1c3c3c3f-dbc4-4fd7-b6a3-e94943ef2b37")
-	)
-	(hierarchical_label "SIG_OUT_P40"
-		(shape input)
-		(at 85.09 116.84 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "1feefeaf-010d-4b99-8ce0-20133d007533")
-	)
-	(hierarchical_label "SIG_OUT_P24"
-		(shape input)
-		(at 259.08 62.23 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "201e2126-12b3-4967-9df2-1a7f9cc8505d")
-	)
-	(hierarchical_label "SIG_COMP_28"
+	(hierarchical_label "DIFF_IN_-"
 		(shape output)
-		(at 85.09 91.44 0)
+		(at 212.09 123.19 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "203ded32-d331-4d8e-97e6-56ccdbe39c1d")
+		(uuid "2d32bcff-087b-47d0-be88-9f7cc2c69859")
 	)
-	(hierarchical_label "SIG_COMP_8"
+	(hierarchical_label "DIFF_OUT_+"
+		(shape input)
+		(at 116.84 149.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "30a6bee0-0241-4858-be20-778f4fb88c81")
+	)
+	(hierarchical_label "CORNER_IN_4"
 		(shape output)
-		(at 168.91 31.75 0)
+		(at 212.09 199.39 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "226cff4f-e914-4ad7-8676-46b7fa069652")
+		(uuid "31bb2c34-ec2e-4b61-ad18-c3282f2c9912")
 	)
-	(hierarchical_label "SIG_OUT_P44"
+	(hierarchical_label "CORNER_OUT_6"
 		(shape input)
-		(at 168.91 116.84 0)
+		(at 337.82 133.35 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "254bf13a-da59-4c55-b9b5-388d33789255")
+		(uuid "331f5e4e-8caa-49c6-8f7c-da9f8fc508c3")
 	)
-	(hierarchical_label "SIG_COMP_42"
+	(hierarchical_label "DIFF_IN_-"
 		(shape output)
-		(at 127 119.38 0)
+		(at 53.34 95.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "2683cda1-92cd-49f8-bde7-550106a0fd2f")
+		(uuid "33706af7-34df-4b8f-adc8-033af313ab3a")
 	)
-	(hierarchical_label "SIG_OUT_P29"
-		(shape input)
-		(at 127 82.55 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2c3871d1-8b45-4178-91ec-a59ec226d23b")
-	)
-	(hierarchical_label "SIG_COMP_44"
+	(hierarchical_label "DIFF_IN_+"
 		(shape output)
-		(at 168.91 119.38 0)
+		(at 247.65 156.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "3135c7dd-25af-4f72-90b7-db66da295213")
+		(uuid "33850b2e-86bc-47b7-a82b-c0cbe4ef879f")
 	)
-	(hierarchical_label "SIG_COMP_51"
+	(hierarchical_label "BUS_EN_48"
+		(shape input)
+		(at 337.82 228.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "35667af8-047e-4638-a91f-2eb6c500ee88")
+	)
+	(hierarchical_label "DIFF_IN_-"
 		(shape output)
-		(at 85.09 140.97 0)
+		(at 86.36 222.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "3b7cecfe-8d50-45c4-91d6-12f3c91998d8")
+		(uuid "37da4687-d3a9-4e19-b222-6390c0d40117")
 	)
-	(hierarchical_label "SIG_COMP_43"
+	(hierarchical_label "DIFF_IN_+"
 		(shape output)
-		(at 168.91 113.03 0)
+		(at 368.3 156.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "3ce71b63-c09a-41dd-94bd-0e5ae70f58ab")
+		(uuid "39717232-d87a-4e9d-8e67-ff931fbe72be")
 	)
-	(hierarchical_label "SIG_COMP_30"
+	(hierarchical_label "CORNER_IN_2"
 		(shape output)
-		(at 127 91.44 0)
+		(at 212.09 73.66 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "3fbd91d1-f45b-41dc-a6a6-fadeec7f7177")
+		(uuid "39c8f619-0883-44fb-adb3-33789cfba7c3")
 	)
-	(hierarchical_label "SIG_COMP_15"
+	(hierarchical_label "DIFF_IN_+"
 		(shape output)
-		(at 85.09 58.42 0)
+		(at 116.84 92.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "474571bb-cb4d-4130-97ee-162338737b8d")
+		(uuid "3b91380a-d624-48e1-b24f-4b0e2cd45810")
 	)
-	(hierarchical_label "SIG_OUT_P13"
+	(hierarchical_label "BUS_EN_18"
 		(shape input)
-		(at 43.18 55.88 0)
+		(at 173.99 101.6 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "47f1fd96-cf81-4776-ad5f-f9646773ddac")
+		(uuid "3b91745d-149c-4265-b102-daa91c0adf0c")
 	)
-	(hierarchical_label "SIG_COMP_11"
+	(hierarchical_label "BUS_EN_49"
+		(shape input)
+		(at 368.3 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4904e7d8-0548-4af8-973a-6735def21ecd")
+	)
+	(hierarchical_label "DIFF_IN_-"
 		(shape output)
-		(at 259.08 25.4 0)
+		(at 53.34 158.75 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "4d254396-e23b-49e1-b360-198e1ac4ce84")
+		(uuid "49ffe490-e62b-4ea1-872d-73e92be07467")
 	)
-	(hierarchical_label "CRN_IN_6"
+	(hierarchical_label "BUS_EN_15"
+		(shape input)
+		(at 173.99 36.83 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4aefb9a6-ff2d-4b5f-8e9f-8b9dc05b069c")
+	)
+	(hierarchical_label "BUS_EN_37"
+		(shape input)
+		(at 247.65 226.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4c23d8a3-aabb-40e8-9271-777cd5ae185a")
+	)
+	(hierarchical_label "DIFF_IN_+"
 		(shape output)
-		(at 259.08 38.1 0)
+		(at 337.82 30.48 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "5182bcb3-1c7c-4286-922e-49c07c652247")
+		(uuid "4f70bb29-3eb9-4fc5-8a69-20c42dd8dc8b")
 	)
-	(hierarchical_label "CRN_OUT_2"
+	(hierarchical_label "DIFF_OUT_-"
 		(shape input)
-		(at 85.09 35.56 0)
+		(at 173.99 88.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "524686ae-c58d-4777-8cc3-2485fe5c7769")
+		(uuid "50aba46b-af7d-4f39-94ab-40aed6a084b8")
 	)
-	(hierarchical_label "SIG_COMP_24"
+	(hierarchical_label "DIFF_IN_-"
 		(shape output)
-		(at 259.08 64.77 0)
+		(at 173.99 33.02 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "52d5194a-78ab-4778-92f9-fa5d44bc387a")
+		(uuid "5102d839-bee0-454e-8924-70f69bd8d90e")
 	)
-	(hierarchical_label "SIG_OUT_P46"
-		(shape input)
-		(at 212.09 116.84 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "58ec9937-71bf-42c9-86c5-074f80873c3b")
-	)
-	(hierarchical_label "SIG_OUT_P11"
-		(shape input)
-		(at 259.08 22.86 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "58f982fb-5abd-4ad1-800d-d145741f39d4")
-	)
-	(hierarchical_label "SIG_OUT_P16"
-		(shape input)
-		(at 85.09 62.23 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "592b507b-d49d-4d4e-a0cb-04180759ec2b")
-	)
-	(hierarchical_label "SIG_OUT_P38"
-		(shape input)
-		(at 43.18 116.84 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "593061cb-44fa-4e00-81e0-cb5cb39d9271")
-	)
-	(hierarchical_label "SIG_COMP_41"
+	(hierarchical_label "DIFF_IN_+"
 		(shape output)
-		(at 127 113.03 0)
+		(at 86.36 219.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "5b8bfd55-67b7-48a4-868b-65c6a242ab9d")
+		(uuid "5159b1f4-dced-4d0c-81d5-e58d362187ef")
 	)
-	(hierarchical_label "SIG_COMP_19"
+	(hierarchical_label "BUS_EN_3"
+		(shape input)
+		(at 53.34 162.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "524692d7-b60a-4174-8e74-6f73d3a395e3")
+	)
+	(hierarchical_label "DIFF_IN_-"
 		(shape output)
-		(at 168.91 58.42 0)
+		(at 173.99 158.75 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "5bf649c0-3b9d-49ff-82ba-1a241295744d")
+		(uuid "5441334a-f95e-4f0c-8a2d-b4cb26c22f0d")
 	)
-	(hierarchical_label "SIG_COMP_38"
+	(hierarchical_label "BUS_EN_44"
+		(shape input)
+		(at 337.82 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5790d700-93a9-4cf0-8280-762bb9c83258")
+	)
+	(hierarchical_label "CORNER_OUT_3"
+		(shape input)
+		(at 212.09 133.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "592f5f10-fcde-477a-be62-a5ad4d4bd56c")
+	)
+	(hierarchical_label "DIFF_IN_-"
 		(shape output)
-		(at 43.18 119.38 0)
+		(at 212.09 60.96 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "608a3d90-9df2-4f97-bde3-bb3542661042")
+		(uuid "5ba7b6da-131d-44c3-933e-0415b0293e59")
 	)
-	(hierarchical_label "CRN_OUT_3"
+	(hierarchical_label "BUS_EN_34"
 		(shape input)
-		(at 127 35.56 0)
+		(at 247.65 101.6 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "62137b6e-497c-400e-9ba5-7a8f2d51166e")
+		(uuid "5cc5f9de-056f-4e41-9207-edbccfebc8f2")
 	)
-	(hierarchical_label "CRN_IN_1"
+	(hierarchical_label "DIFF_OUT_+"
+		(shape input)
+		(at 368.3 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5ccfe7b8-ce30-45e9-bbc6-3240f8878e06")
+	)
+	(hierarchical_label "DIFF_OUT_+"
+		(shape input)
+		(at 247.65 213.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5f8ec412-c009-4ba9-b9f7-5b291b9bceb8")
+	)
+	(hierarchical_label "BUS_EN_36"
+		(shape input)
+		(at 247.65 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "63da2bd3-a740-4be6-b42c-bd5f51df73c7")
+	)
+	(hierarchical_label "BUS_EN_47"
+		(shape input)
+		(at 337.82 226.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "64f7543c-a592-4340-ab51-759deb8e05c2")
+	)
+	(hierarchical_label "DIFF_IN_+"
 		(shape output)
-		(at 43.18 38.1 0)
+		(at 247.65 219.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "67766623-e1c9-4b37-8aa9-c48b0609f1be")
+		(uuid "650c6fde-55b5-4891-a72b-8e63000496c9")
 	)
-	(hierarchical_label "CRN_IN_2"
+	(hierarchical_label "CORNER_OUT_4"
+		(shape input)
+		(at 212.09 196.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "665634f7-52b0-4cf6-926c-92821d54907d")
+	)
+	(hierarchical_label "DIFF_OUT_-"
+		(shape input)
+		(at 86.36 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "670b1ee0-2914-4203-bd23-bf64a1963740")
+	)
+	(hierarchical_label "DIFF_IN_+"
 		(shape output)
-		(at 85.09 38.1 0)
+		(at 212.09 120.65 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "69df6af8-c38f-4915-8d0b-29a911e84207")
+		(uuid "688776a0-f72f-4901-b236-01be50ea7a64")
 	)
-	(hierarchical_label "CRN_OUT_6"
-		(shape input)
-		(at 259.08 35.56 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6b0b1172-7c89-4285-a06e-af2978369054")
-	)
-	(hierarchical_label "SIG_OUT_P19"
-		(shape input)
-		(at 168.91 55.88 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6e85dbcd-53c4-4656-b781-240219c2d49f")
-	)
-	(hierarchical_label "SIG_OUT_P12"
-		(shape input)
-		(at 259.08 29.21 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6f33c0af-d866-40bf-83ee-8aa0b78325cc")
-	)
-	(hierarchical_label "SIG_OUT_P21"
-		(shape input)
-		(at 212.09 55.88 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "714da8a7-9ebd-4c6b-a520-585cc67ec542")
-	)
-	(hierarchical_label "SIG_OUT_P45"
-		(shape input)
-		(at 212.09 110.49 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "769a7d7a-c87e-494e-9886-a35c2162d6cb")
-	)
-	(hierarchical_label "SIG_COMP_55"
+	(hierarchical_label "DIFF_IN_+"
 		(shape output)
-		(at 168.91 140.97 0)
+		(at 247.65 92.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "77687136-ce89-4404-9abd-f43071ec56c4")
+		(uuid "697a1eba-2549-4482-a390-63e97452e360")
 	)
-	(hierarchical_label "SIG_OUT_P6"
-		(shape input)
-		(at 127 29.21 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "78788465-762c-4738-b3a0-45fc40c83a97")
-	)
-	(hierarchical_label "SIG_OUT_P10"
-		(shape input)
-		(at 212.09 29.21 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "7bd3f613-2181-403d-9eff-0ec1858926d1")
-	)
-	(hierarchical_label "SIG_COMP_50"
+	(hierarchical_label "DIFF_IN_+"
 		(shape output)
-		(at 43.18 147.32 0)
+		(at 116.84 156.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "817c12c4-6378-4e10-8ba1-113f0b4aee0c")
+		(uuid "6abd0a49-d1fb-4b19-aabd-78bde6387326")
 	)
-	(hierarchical_label "SIG_COMP_56"
+	(hierarchical_label "BUS_EN_6"
+		(shape input)
+		(at 86.36 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6c24f6da-1767-4f5a-9fc7-b5eb2c4db15c")
+	)
+	(hierarchical_label "DIFF_OUT_-"
+		(shape input)
+		(at 116.84 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6cf7185c-5b1d-4609-8752-8bbf6998cd17")
+	)
+	(hierarchical_label "CORNER_OUT_5"
+		(shape input)
+		(at 212.09 260.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6e042aaf-6a67-4dbe-9e9b-b23e941c34a7")
+	)
+	(hierarchical_label "DIFF_IN_-"
 		(shape output)
-		(at 168.91 147.32 0)
+		(at 212.09 250.19 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "829de247-e01c-4f11-93e2-b76f0f778f2a")
+		(uuid "6ec66ef3-eba9-48a5-9218-549a8c7cd8dc")
 	)
-	(hierarchical_label "SIG_OUT_P1"
-		(shape input)
-		(at 43.18 22.86 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "82a2619c-b8bf-40e4-97f0-3ed06ff113f4")
-	)
-	(hierarchical_label "SIG_COMP_53"
+	(hierarchical_label "DIFF_IN_-"
 		(shape output)
-		(at 127 140.97 0)
+		(at 86.36 123.19 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "82a55cc4-ee57-4f13-9d4b-0d2aabfad641")
+		(uuid "6ef8b6c7-a279-4f92-a9ef-da4d6ae5f974")
 	)
-	(hierarchical_label "SIG_COMP_39"
+	(hierarchical_label "CORNER_IN_5"
 		(shape output)
-		(at 85.09 113.03 0)
+		(at 212.09 262.89 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "85323362-d700-4e31-8e0b-3f19bd5ed01f")
+		(uuid "7225e372-9f52-435c-91f5-639cb4109e60")
 	)
-	(hierarchical_label "SIG_OUT_P36"
-		(shape input)
-		(at 259.08 88.9 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "86563a9c-f757-4494-beca-e692be5bf808")
-	)
-	(hierarchical_label "SIG_OUT_P20"
-		(shape input)
-		(at 168.91 62.23 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "866a2335-7f73-4b00-bf58-003da8f3698a")
-	)
-	(hierarchical_label "SIG_COMP_14"
+	(hierarchical_label "DIFF_IN_-"
 		(shape output)
-		(at 43.18 64.77 0)
+		(at 212.09 186.69 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "86f9a6ee-8e9a-4947-9e5a-63720d6248a6")
+		(uuid "7423ff7f-72e9-4d03-8a4e-840f8677620e")
 	)
-	(hierarchical_label "SIG_OUT_P4"
+	(hierarchical_label "BUS_EN_45"
 		(shape input)
-		(at 85.09 29.21 0)
+		(at 337.82 127 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "8b33f1da-3c71-485f-a58c-f32ceaaebd4b")
+		(uuid "74d1b73a-b258-423e-9ce9-80a97f53f0e5")
 	)
-	(hierarchical_label "SIG_OUT_P37"
+	(hierarchical_label "BUS_EN_16"
 		(shape input)
-		(at 43.18 110.49 0)
+		(at 173.99 39.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "8c86ff40-d429-42f1-ba7f-a4454a016047")
+		(uuid "75966262-030b-4c00-b322-b31000f35138")
 	)
-	(hierarchical_label "SIG_COMP_29"
+	(hierarchical_label "BUS_EN_27"
+		(shape input)
+		(at 212.09 190.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "77f1386d-30f5-4f6f-8b62-ea823d840d9c")
+	)
+	(hierarchical_label "DIFF_OUT_+"
+		(shape input)
+		(at 86.36 213.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7a2d421d-54dd-477b-8523-3dee4b46016a")
+	)
+	(hierarchical_label "DIFF_IN_-"
 		(shape output)
-		(at 127 85.09 0)
+		(at 247.65 33.02 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "8cc2f9bc-0787-44af-bcfa-1a31e3b4b630")
+		(uuid "7a3a082a-8ab9-4b8e-a905-5c55cbe73bff")
 	)
-	(hierarchical_label "SIG_COMP_48"
+	(hierarchical_label "BUS_EN_14"
+		(shape input)
+		(at 116.84 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7beef483-465d-4aa1-8274-bc2d496fe9ff")
+	)
+	(hierarchical_label "DIFF_IN_-"
 		(shape output)
-		(at 259.08 119.38 0)
+		(at 173.99 222.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "93a7b280-a8df-4da7-b874-376543e63a4b")
+		(uuid "7cca2b32-34ea-417b-9d35-752e507c4cf9")
 	)
-	(hierarchical_label "SIG_COMP_47"
+	(hierarchical_label "DIFF_OUT_-"
+		(shape input)
+		(at 368.3 152.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7d523812-99c7-41b8-961d-bf9fc01e8190")
+	)
+	(hierarchical_label "DIFF_OUT_-"
+		(shape input)
+		(at 86.36 215.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7dbaaf77-39da-4306-b623-e7f97005a390")
+	)
+	(hierarchical_label "DIFF_IN_-"
 		(shape output)
-		(at 259.08 113.03 0)
+		(at 368.3 158.75 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "956a5081-3466-46e1-9c0a-bd746925470b")
+		(uuid "7e7ef52d-8c45-44dd-a1b1-20102604d604")
 	)
-	(hierarchical_label "SIG_COMP_6"
+	(hierarchical_label "DIFF_OUT_-"
+		(shape input)
+		(at 247.65 152.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7eb15671-50b4-4229-9afe-9820a497d6be")
+	)
+	(hierarchical_label "DIFF_OUT_-"
+		(shape input)
+		(at 247.65 215.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "836f524f-2db9-410b-99b6-202bd09f6be5")
+	)
+	(hierarchical_label "DIFF_OUT_-"
+		(shape input)
+		(at 173.99 215.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "838d4694-8c1c-4969-bc55-e2e87a758b74")
+	)
+	(hierarchical_label "DIFF_OUT_-"
+		(shape input)
+		(at 86.36 26.67 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8562bb34-0116-4d1c-a99c-29543f599637")
+	)
+	(hierarchical_label "BUS_EN_39"
+		(shape input)
+		(at 304.8 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "889c716d-6395-4869-a325-81dc110ff151")
+	)
+	(hierarchical_label "DIFF_OUT_-"
+		(shape input)
+		(at 212.09 243.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "88c4b81a-4bbb-403b-a7de-56256143c5ca")
+	)
+	(hierarchical_label "DIFF_OUT_+"
+		(shape input)
+		(at 86.36 24.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "88e19969-bd46-4362-af3c-a3fbb5358559")
+	)
+	(hierarchical_label "CORNER_OUT_1"
+		(shape input)
+		(at 86.36 133.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8c8e17dd-67f7-42d9-8f96-2de32de4763e")
+	)
+	(hierarchical_label "DIFF_IN_+"
 		(shape output)
-		(at 127 31.75 0)
+		(at 337.82 219.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "99d127b2-d56a-4914-9db7-473b5a969651")
+		(uuid "8f0cdd66-1f6f-4a08-ba5d-eb250c99edc4")
 	)
-	(hierarchical_label "CRN_IN_3"
+	(hierarchical_label "BUS_EN_46"
+		(shape input)
+		(at 337.82 129.54 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "903ab3c8-bdcc-4a50-9495-b804de8d23b7")
+	)
+	(hierarchical_label "DIFF_OUT_+"
+		(shape input)
+		(at 173.99 149.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "906dbed4-8991-45be-9b07-0140f18b85f1")
+	)
+	(hierarchical_label "DIFF_IN_+"
 		(shape output)
-		(at 127 38.1 0)
+		(at 304.8 156.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "9b015436-6481-4945-96c7-69a39a55056d")
+		(uuid "91b3c5bb-1aa7-4b65-9c03-e2bbbd65be0d")
 	)
-	(hierarchical_label "SIG_COMP_33"
+	(hierarchical_label "CORNER_OUT_2"
+		(shape input)
+		(at 212.09 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "91e617b2-30b7-4c45-bacf-3131f2e06698")
+	)
+	(hierarchical_label "BUS_EN_9"
+		(shape input)
+		(at 86.36 226.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "924487ba-16a5-474b-8b43-bc7eb79a3697")
+	)
+	(hierarchical_label "BUS_EN_13"
+		(shape input)
+		(at 116.84 162.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "950a346d-c513-41ce-b908-32302f80a506")
+	)
+	(hierarchical_label "DIFF_IN_+"
 		(shape output)
-		(at 212.09 85.09 0)
+		(at 53.34 156.21 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "9b28af33-0938-49a0-bc2d-55dbdd8e3279")
+		(uuid "957ee513-f5c8-4529-8be9-34e25bf16c68")
 	)
-	(hierarchical_label "SIG_OUT_P35"
+	(hierarchical_label "BUS_EN_2"
 		(shape input)
-		(at 259.08 82.55 0)
+		(at 53.34 101.6 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "9b323ed6-e625-4255-9aae-357bb6b6c1ef")
+		(uuid "98429f76-f9af-4367-93fe-06ab387ea896")
 	)
-	(hierarchical_label "SIG_COMP_17"
+	(hierarchical_label "DIFF_OUT_+"
+		(shape input)
+		(at 86.36 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "98f5302d-a658-4f40-9a44-63dd11e37155")
+	)
+	(hierarchical_label "BUS_EN_30"
+		(shape input)
+		(at 212.09 256.54 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "99c8e11b-a152-4059-a42f-5aabb3e0e475")
+	)
+	(hierarchical_label "BUS_EN_31"
+		(shape input)
+		(at 247.65 36.83 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9b75786c-f3c5-440c-affc-dd37e44ecdc3")
+	)
+	(hierarchical_label "DIFF_IN_+"
 		(shape output)
-		(at 127 58.42 0)
+		(at 337.82 120.65 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "9f7f2d7e-3f22-4835-9e8a-1dbbda4e3559")
+		(uuid "9d938873-882c-4122-b4b0-7e22313c6f11")
 	)
-	(hierarchical_label "SIG_COMP_45"
+	(hierarchical_label "DIFF_OUT_-"
+		(shape input)
+		(at 368.3 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9e2d1eb7-cb33-49b4-a622-6c11a0ff00d0")
+	)
+	(hierarchical_label "DIFF_IN_+"
 		(shape output)
-		(at 212.09 113.03 0)
+		(at 304.8 92.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "9fc4f5be-327b-4453-b7bf-e0a1304be382")
+		(uuid "9e847f3e-b394-4663-913f-729484e9afcb")
 	)
-	(hierarchical_label "SIG_COMP_4"
-		(shape output)
-		(at 85.09 31.75 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a1a75cca-51ea-462d-a721-381e6687ed00")
-	)
-	(hierarchical_label "SIG_COMP_9"
-		(shape output)
-		(at 212.09 25.4 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a2f1fa02-5ff4-4439-b3dd-b639f7e6b7de")
-	)
-	(hierarchical_label "SIG_COMP_35"
-		(shape output)
-		(at 259.08 85.09 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a3c9daf3-ca64-4b22-af4b-52e18d913a65")
-	)
-	(hierarchical_label "SIG_COMP_32"
-		(shape output)
-		(at 168.91 91.44 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a7ad39e0-08eb-48be-97ae-2eb589d17f39")
-	)
-	(hierarchical_label "SIG_OUT_P22"
+	(hierarchical_label "DIFF_OUT_-"
 		(shape input)
-		(at 212.09 62.23 0)
+		(at 304.8 152.4 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "a94c5e62-17d6-4987-8178-47f7cf7f06d9")
+		(uuid "9ebe0466-bd74-46f3-8e8d-584e0f6227b0")
 	)
-	(hierarchical_label "SIG_OUT_P14"
-		(shape input)
-		(at 43.18 62.23 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ab859de5-7a44-4cdd-bbb6-040829ead8ef")
-	)
-	(hierarchical_label "SIG_OUT_P9"
-		(shape input)
-		(at 212.09 22.86 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ac23ceb6-0c65-4a5b-b2f5-4d9ebf12029e")
-	)
-	(hierarchical_label "SIG_OUT_P47"
-		(shape input)
-		(at 259.08 110.49 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "bc046e33-f9a7-4ecf-bd03-97f26f498e5a")
-	)
-	(hierarchical_label "SIG_OUT_P5"
-		(shape input)
-		(at 127 22.86 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "bcc385cf-0281-4c5b-a640-673ef837e20f")
-	)
-	(hierarchical_label "SIG_OUT_P41"
-		(shape input)
-		(at 127 110.49 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "bd45544f-b8e8-4ba0-8ee0-c42e5dbd5b73")
-	)
-	(hierarchical_label "CRN_OUT_5"
-		(shape input)
-		(at 212.09 35.56 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "bdaaa4db-80e6-444f-9aff-66cf969588ee")
-	)
-	(hierarchical_label "SIG_OUT_P3"
-		(shape input)
-		(at 85.09 22.86 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "be11cc40-83e6-48e0-aeb1-fc9d92e33c59")
-	)
-	(hierarchical_label "SIG_OUT_P25"
-		(shape input)
-		(at 43.18 82.55 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c1eed9bb-71ac-4dad-a289-12451df3a654")
-	)
-	(hierarchical_label "SIG_COMP_40"
-		(shape output)
-		(at 85.09 119.38 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c228de85-0706-4df7-bc76-4b4b38304bf3")
-	)
-	(hierarchical_label "CRN_IN_5"
-		(shape output)
-		(at 212.09 38.1 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c29b443e-1873-4ff6-9e8d-c6e731603e4c")
-	)
-	(hierarchical_label "SIG_OUT_P54"
-		(shape input)
-		(at 127 144.78 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c3737059-0582-4064-ac26-fed61d72ca67")
-	)
-	(hierarchical_label "SIG_OUT_P53"
-		(shape input)
-		(at 127 138.43 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c424ee64-d887-478f-af35-c214e849b8b6")
-	)
-	(hierarchical_label "SIG_OUT_P34"
-		(shape input)
-		(at 212.09 88.9 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c445ccad-c411-4c00-afdd-925fca731b9f")
-	)
-	(hierarchical_label "SIG_COMP_2"
-		(shape output)
-		(at 43.18 31.75 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c6c934a1-ed34-46a7-857e-93e13aa458f1")
-	)
-	(hierarchical_label "SIG_OUT_P18"
-		(shape input)
-		(at 127 62.23 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c7401c7d-318a-40ee-9daf-a77074768cf0")
-	)
-	(hierarchical_label "CRN_OUT_1"
-		(shape input)
-		(at 43.18 35.56 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c9b6a5ed-5776-4fcc-b3d6-b321f635837a")
-	)
-	(hierarchical_label "SIG_OUT_P42"
-		(shape input)
-		(at 127 116.84 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ce07221d-9ec4-4eee-b010-12951cdfb1f6")
-	)
-	(hierarchical_label "SIG_OUT_P52"
-		(shape input)
-		(at 85.09 144.78 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "cf95cb1f-6a97-48fa-ab76-6cbb148fd5a0")
-	)
-	(hierarchical_label "SIG_COMP_3"
-		(shape output)
-		(at 85.09 25.4 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d0f2faf0-7fce-49c9-9f7b-ff11eb96f4da")
-	)
-	(hierarchical_label "SIG_COMP_21"
+	(hierarchical_label "DIFF_IN_+"
 		(shape output)
 		(at 212.09 58.42 0)
 		(effects
@@ -2326,624 +2887,659 @@
 			)
 			(justify left)
 		)
-		(uuid "d4bf23a3-e91f-4a10-bc0d-4f11d0ba8380")
+		(uuid "a1832f14-52ae-417a-9311-abdd866b15d5")
 	)
-	(hierarchical_label "SIG_COMP_5"
-		(shape output)
-		(at 127 25.4 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d5abc7bf-bc9b-45aa-b905-24df588f3f9e")
-	)
-	(hierarchical_label "SIG_OUT_P30"
+	(hierarchical_label "DIFF_OUT_-"
 		(shape input)
-		(at 127 88.9 0)
+		(at 173.99 26.67 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "d70794ff-a0a0-47ed-a20c-0e3cba575a78")
+		(uuid "a4ded57c-030a-4b72-8ca1-d9e9f108d278")
 	)
-	(hierarchical_label "SIG_COMP_34"
-		(shape output)
-		(at 212.09 91.44 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d7ab441c-c923-490f-84d1-8ebd0f3277d9")
-	)
-	(hierarchical_label "SIG_OUT_P49"
+	(hierarchical_label "DIFF_OUT_+"
 		(shape input)
-		(at 43.18 138.43 0)
+		(at 53.34 149.86 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "d9fd1c22-10e6-4853-8f97-018b9e06d61d")
+		(uuid "a51163e5-44a8-4414-aa2a-0f94727747c6")
 	)
-	(hierarchical_label "SIG_COMP_52"
+	(hierarchical_label "CORNER_IN_6"
 		(shape output)
-		(at 85.09 147.32 0)
+		(at 337.82 135.89 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "da4ec30f-b0a8-4e42-97a0-1b06939ff858")
+		(uuid "a8468f5d-34a5-4774-8e0d-dca44b6ede31")
 	)
-	(hierarchical_label "SIG_OUT_P28"
-		(shape input)
-		(at 85.09 88.9 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "df57f60f-2b24-48a8-832f-457c53cb997f")
-	)
-	(hierarchical_label "SIG_OUT_P50"
-		(shape input)
-		(at 43.18 144.78 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "dfb12581-85e1-4a8a-b9a7-d70500031547")
-	)
-	(hierarchical_label "SIG_COMP_49"
+	(hierarchical_label "DIFF_IN_+"
 		(shape output)
-		(at 43.18 140.97 0)
+		(at 368.3 92.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "dfd7e401-a3a6-4116-b644-7c9e2f7f679f")
+		(uuid "a8d7fdd8-ed88-45ef-8f8c-74301958e064")
 	)
-	(hierarchical_label "SIG_OUT_P56"
+	(hierarchical_label "DIFF_OUT_+"
 		(shape input)
-		(at 168.91 144.78 0)
+		(at 247.65 149.86 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "e0445c53-b6c7-467e-bc0a-729fa5261c92")
+		(uuid "aab17eb7-d55b-4199-82e1-1766f2b9c920")
 	)
-	(hierarchical_label "SIG_OUT_P23"
+	(hierarchical_label "BUS_EN_8"
 		(shape input)
-		(at 259.08 55.88 0)
+		(at 86.36 129.54 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "e08a7203-255f-4016-ae9d-5469f65a1f9f")
+		(uuid "ac27c03f-4f29-42b6-9d98-93b9a70f83ef")
 	)
-	(hierarchical_label "SIG_OUT_P39"
+	(hierarchical_label "DIFF_OUT_+"
 		(shape input)
-		(at 85.09 110.49 0)
+		(at 173.99 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "e08d5996-d559-48fb-8bac-33270f42673e")
+		(uuid "b16323c3-7c4d-4bbf-bebd-95b4e51d1ffb")
 	)
-	(hierarchical_label "SIG_OUT_P31"
+	(hierarchical_label "BUS_EN_32"
 		(shape input)
-		(at 168.91 82.55 0)
+		(at 247.65 39.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "e6286a04-18cc-44bc-a28a-ebff7f501192")
+		(uuid "b2dcdc4a-da6e-48a9-84c7-f557d6a464a7")
 	)
-	(hierarchical_label "SIG_COMP_12"
-		(shape output)
-		(at 259.08 31.75 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e7377b26-f656-46e0-a56c-146b6d42608d")
-	)
-	(hierarchical_label "SIG_OUT_P8"
+	(hierarchical_label "BUS_EN_26"
 		(shape input)
-		(at 168.91 29.21 0)
+		(at 212.09 129.54 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "e8baae0d-6ccb-42f2-8ed5-3eb7e8a0b185")
+		(uuid "b3b91605-6b9a-429b-b833-7eb79e40b8a7")
 	)
-	(hierarchical_label "SIG_COMP_37"
+	(hierarchical_label "DIFF_IN_+"
 		(shape output)
-		(at 43.18 113.03 0)
+		(at 173.99 219.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "e8ea7298-1e7d-4ca3-865b-fbb08c866a50")
+		(uuid "b4492f4a-5406-4448-aa37-aac4f8b3c380")
 	)
-	(hierarchical_label "SIG_OUT_P33"
+	(hierarchical_label "BUS_EN_22"
 		(shape input)
-		(at 212.09 82.55 0)
+		(at 173.99 228.6 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "e90f81a7-1e94-4b75-a32d-6de2ec513e21")
+		(uuid "b4733b7b-2fae-4121-bb5a-65ae5c6398b1")
 	)
-	(hierarchical_label "SIG_OUT_P48"
+	(hierarchical_label "DIFF_OUT_+"
 		(shape input)
-		(at 259.08 116.84 0)
+		(at 337.82 24.13 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "ec46e93f-ba04-43c5-bb74-b2fd29f29c29")
+		(uuid "b48c180e-8990-4613-8d01-63677890e554")
 	)
-	(hierarchical_label "SIG_OUT_P7"
+	(hierarchical_label "DIFF_OUT_-"
 		(shape input)
-		(at 168.91 22.86 0)
+		(at 173.99 152.4 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "ed0134b3-dfe7-4a70-8326-1e3c9cdaed2e")
+		(uuid "b6aaff52-dde3-48a1-9697-6ffe2a4c974d")
 	)
-	(hierarchical_label "SIG_COMP_46"
-		(shape output)
-		(at 212.09 119.38 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ee93f2ef-9384-4145-aeb5-047f28bb0589")
-	)
-	(hierarchical_label "SIG_COMP_10"
-		(shape output)
-		(at 212.09 31.75 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ef08f961-261a-47c5-b5aa-d4ea84017ee7")
-	)
-	(hierarchical_label "SIG_COMP_13"
-		(shape output)
-		(at 43.18 58.42 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f1ff0819-de8c-48ba-ac68-c38f6ab330de")
-	)
-	(hierarchical_label "SIG_COMP_22"
-		(shape output)
-		(at 212.09 64.77 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f20e192b-402d-4520-aad7-2460a76b2075")
-	)
-	(hierarchical_label "SIG_COMP_31"
-		(shape output)
-		(at 168.91 85.09 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f92bc73c-e5ba-4c54-a7be-b58564182256")
-	)
-	(hierarchical_label "SIG_COMP_16"
-		(shape output)
-		(at 85.09 64.77 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f9567f63-b8f5-448e-be85-09d6ed468e9b")
-	)
-	(hierarchical_label "SIG_COMP_1"
-		(shape output)
-		(at 43.18 25.4 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "fd8d9ced-59ca-4d6b-b035-01f0ecf26992")
-	)
-	(hierarchical_label "SIG_OUT_P55"
+	(hierarchical_label "BUS_EN_17"
 		(shape input)
-		(at 168.91 138.43 0)
+		(at 173.99 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "fdb462b4-e38f-4a6f-992a-afcffc23dbdc")
+		(uuid "b7652dfc-d60b-41f0-8cb0-3685aa416f6e")
+	)
+	(hierarchical_label "DIFF_OUT_-"
+		(shape input)
+		(at 337.82 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b7ee702f-11f1-4c88-9a04-1a2bf74e0209")
+	)
+	(hierarchical_label "BUS_EN_41"
+		(shape input)
+		(at 304.8 162.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b9a934f1-1c75-4f99-8eea-f08adb1a1cd3")
+	)
+	(hierarchical_label "BUS_EN_21"
+		(shape input)
+		(at 173.99 226.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bf73861f-fe26-4930-b41e-98533cc5b756")
+	)
+	(hierarchical_label "DIFF_OUT_+"
+		(shape input)
+		(at 304.8 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c1eff55d-9caf-453b-b804-75f54b4da1e2")
+	)
+	(hierarchical_label "DIFF_IN_-"
+		(shape output)
+		(at 304.8 158.75 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c37eb17d-57f0-4f8a-a5ac-e7db5819c811")
+	)
+	(hierarchical_label "CORNER_IN_3"
+		(shape output)
+		(at 212.09 135.89 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c5232577-a45a-4140-bd82-8aebf791ebc9")
+	)
+	(hierarchical_label "BUS_EN_28"
+		(shape input)
+		(at 212.09 193.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c596390f-d37f-47de-a349-47a8947a61b6")
+	)
+	(hierarchical_label "DIFF_IN_-"
+		(shape output)
+		(at 337.82 222.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c6be903f-9b29-4779-be4d-78924123aaa4")
+	)
+	(hierarchical_label "DIFF_OUT_+"
+		(shape input)
+		(at 337.82 213.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c9449827-7a84-4d0c-bb5a-1984fb5e6ec5")
+	)
+	(hierarchical_label "CORNER_IN_1"
+		(shape output)
+		(at 86.36 135.89 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ceba38ae-4887-49cb-ab91-4c66f9b50fbd")
+	)
+	(hierarchical_label "DIFF_OUT_+"
+		(shape input)
+		(at 212.09 241.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d2407cb5-0c9e-4b33-a389-b845f87609c4")
+	)
+	(hierarchical_label "BUS_EN_20"
+		(shape input)
+		(at 173.99 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d28e896e-44b9-41af-8700-a163a1e71705")
+	)
+	(hierarchical_label "BUS_EN_51"
+		(shape input)
+		(at 368.3 162.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d55b2f81-57e6-48f6-9a64-3517edd1ae30")
+	)
+	(hierarchical_label "DIFF_OUT_+"
+		(shape input)
+		(at 247.65 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d57ff52b-9df6-45f9-ad3b-1addde449d27")
+	)
+	(hierarchical_label "DIFF_IN_-"
+		(shape output)
+		(at 173.99 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d6d71545-da15-4d13-9d55-81fd484c7ba1")
+	)
+	(hierarchical_label "DIFF_IN_+"
+		(shape output)
+		(at 247.65 30.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d8289835-9edb-4ef3-8add-d4761935e109")
+	)
+	(hierarchical_label "DIFF_IN_-"
+		(shape output)
+		(at 116.84 158.75 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d9228d69-9831-4c0d-a710-bd3a6e7d9873")
+	)
+	(hierarchical_label "BUS_EN_52"
+		(shape input)
+		(at 368.3 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "daab63ec-fa6d-4d3c-9491-d6cd00729eef")
+	)
+	(hierarchical_label "BUS_EN_43"
+		(shape input)
+		(at 337.82 36.83 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "db2c9fc0-fd9f-465f-9876-3c45f69481f2")
+	)
+	(hierarchical_label "DIFF_IN_-"
+		(shape output)
+		(at 304.8 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dd36d516-0684-4ae0-90e0-5db8d533e930")
+	)
+	(hierarchical_label "DIFF_OUT_+"
+		(shape input)
+		(at 173.99 24.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "de627600-7f39-4c67-89f4-9c8e36051430")
+	)
+	(hierarchical_label "BUS_EN_19"
+		(shape input)
+		(at 173.99 162.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e0af5a2f-b306-4326-a5d9-5eed2f7ce558")
+	)
+	(hierarchical_label "DIFF_OUT_-"
+		(shape input)
+		(at 212.09 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e3b4e73f-7527-4dfa-9142-aec5225ca633")
+	)
+	(hierarchical_label "BUS_EN_25"
+		(shape input)
+		(at 212.09 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e5d20ed1-3b38-4864-b756-b439df20d2fb")
+	)
+	(hierarchical_label "DIFF_IN_+"
+		(shape output)
+		(at 86.36 30.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e7415ede-105d-490d-b3f0-4d05af2e976a")
+	)
+	(hierarchical_label "DIFF_OUT_+"
+		(shape input)
+		(at 212.09 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e9272d88-fa1a-4759-b8fb-ba372b34697e")
+	)
+	(hierarchical_label "DIFF_IN_+"
+		(shape output)
+		(at 173.99 156.21 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e9b8d8c6-7c81-4875-a262-b783434f53af")
+	)
+	(hierarchical_label "BUS_EN_12"
+		(shape input)
+		(at 116.84 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "eaa3ba6a-40f4-4028-9b1d-5babe622024c")
+	)
+	(hierarchical_label "DIFF_OUT_-"
+		(shape input)
+		(at 247.65 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "eb6d1d3d-f5e3-4194-a4d5-ecbb7a44f239")
+	)
+	(hierarchical_label "DIFF_OUT_+"
+		(shape input)
+		(at 337.82 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ebc71014-1c1f-46ff-98a6-8fe481df4715")
+	)
+	(hierarchical_label "DIFF_OUT_-"
+		(shape input)
+		(at 212.09 180.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ec26147e-f522-4aee-95b4-7db06cc2d5f0")
+	)
+	(hierarchical_label "DIFF_OUT_+"
+		(shape input)
+		(at 173.99 213.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ecbff9b1-4989-4621-ab2f-3bcb682a8865")
+	)
+	(hierarchical_label "DIFF_OUT_+"
+		(shape input)
+		(at 53.34 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "edd39060-2b8a-4cb0-b087-84a1bbffc221")
+	)
+	(hierarchical_label "DIFF_IN_+"
+		(shape output)
+		(at 212.09 184.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ef1ab0f0-766a-4bf8-a986-fd8b6eb779fe")
+	)
+	(hierarchical_label "DIFF_OUT_+"
+		(shape input)
+		(at 247.65 24.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f1a54f8d-7b45-4621-ad56-8ad9739425d2")
+	)
+	(hierarchical_label "BUS_EN_50"
+		(shape input)
+		(at 368.3 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f21b9bff-1041-4828-9caa-7cec9a69179c")
+	)
+	(hierarchical_label "DIFF_IN_+"
+		(shape output)
+		(at 173.99 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f4b4bf3e-da27-467d-bb77-097870032be3")
+	)
+	(hierarchical_label "DIFF_OUT_-"
+		(shape input)
+		(at 116.84 152.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f4e81772-9d5e-4e80-a1d0-96cddf6b0a1e")
+	)
+	(hierarchical_label "DIFF_OUT_-"
+		(shape input)
+		(at 337.82 26.67 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f823836e-f5ca-4f31-aaab-9f5b0760d9ec")
+	)
+	(hierarchical_label "DIFF_OUT_+"
+		(shape input)
+		(at 304.8 149.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f885a4cf-8537-4376-a0eb-bb2ab87c96bf")
+	)
+	(hierarchical_label "DIFF_IN_-"
+		(shape output)
+		(at 337.82 123.19 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f8e9e356-68cd-486a-a06e-f13bf0d719d3")
+	)
+	(hierarchical_label "DIFF_IN_+"
+		(shape output)
+		(at 212.09 247.65 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f95804d7-7d16-478a-87a5-319c91f06b7a")
+	)
+	(hierarchical_label "BUS_EN_40"
+		(shape input)
+		(at 304.8 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fb2515aa-7958-4600-8935-d42a76d7272f")
+	)
+	(hierarchical_label "DIFF_OUT_-"
+		(shape input)
+		(at 53.34 152.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fd40d827-9775-4f8e-a59b-87995499859a")
+	)
+	(hierarchical_label "DIFF_OUT_-"
+		(shape input)
+		(at 53.34 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ff53fd79-0fe3-4f8c-8059-1422a05daae8")
 	)
 	(sheet
-		(at 101.6 80.01)
-		(size 21.59 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 153 0 0.1500)
-		)
-		(uuid "005e0956-233e-4e1f-89fd-95dc20b1eee4")
-		(property "Sheetname" "InnerPanelConn8"
-			(at 101.6 79.2984 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "inner_panel_conn.kicad_sch"
-			(at 101.6 95.8346 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 123.19 85.09 0)
-			(uuid "61e997e3-4f57-4878-9a20-a3e32a25dd2d")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COMP_2" output
-			(at 123.19 91.44 0)
-			(uuid "b0669724-b493-4023-80f5-a433df267aee")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 123.19 82.55 0)
-			(uuid "a940ac38-987a-4e99-bf04-24d54feee173")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 123.19 88.9 0)
-			(uuid "a9995a1f-1ec5-43b2-a841-079d69ef1d28")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "19")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 143.51 135.89)
-		(size 21.59 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 255 0 0.1500)
-		)
-		(uuid "1375607c-e125-4066-9853-48033d7ec8f3")
-		(property "Sheetname" "Dual_InnerSmallPanelConn3"
-			(at 143.51 135.1784 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "d_inner_sml_panel_conn.kicad_sch"
-			(at 143.51 151.7146 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 165.1 140.97 0)
-			(uuid "a766d899-61c3-4ec8-8dcd-f56e2f7cd9dc")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COMP_2" output
-			(at 165.1 147.32 0)
-			(uuid "28849eef-ae46-4db8-a128-4ad4425b87c9")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 165.1 138.43 0)
-			(uuid "d92768cb-3280-4258-862a-baa89a2b2897")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 165.1 144.78 0)
-			(uuid "a2c698fc-4068-45f0-9065-582b1156e10b")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "31")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 59.69 53.34)
-		(size 21.59 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 153 0 0.1500)
-		)
-		(uuid "191eba70-2386-4121-8fd2-d321edc6288a")
-		(property "Sheetname" "InnerPanelConn1"
-			(at 59.69 52.6284 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "inner_panel_conn.kicad_sch"
-			(at 59.69 69.1646 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 81.28 58.42 0)
-			(uuid "a6bbdd38-1604-4e3c-b5b0-00f3813223ec")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COMP_2" output
-			(at 81.28 64.77 0)
-			(uuid "74224cd0-6e6a-4edc-bef1-5817e9a20c19")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 81.28 55.88 0)
-			(uuid "485bba7d-2b6b-4072-9c97-447f700988bc")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 81.28 62.23 0)
-			(uuid "aade5740-e968-405c-b840-62430bb1dd51")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "12")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 186.69 53.34)
-		(size 21.59 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 153 0 0.1500)
-		)
-		(uuid "27768522-0f33-4f1a-bfa1-b47c6d3abe67")
-		(property "Sheetname" "InnerPanelConn4"
-			(at 186.69 52.6284 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "inner_panel_conn.kicad_sch"
-			(at 186.69 69.1646 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 208.28 58.42 0)
-			(uuid "04c2ad02-b03e-4519-9482-0ac7d41fdea0")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COMP_2" output
-			(at 208.28 64.77 0)
-			(uuid "7ad5b3d7-572b-4f1e-84e7-447ba8f5123c")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 208.28 55.88 0)
-			(uuid "4aad36f3-e736-4b05-aa23-253594b609ce")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 208.28 62.23 0)
-			(uuid "70a65daa-52e4-4101-b273-271a5a4bea8b")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "15")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 101.6 20.32)
+		(at 91.44 83.82)
 		(size 21.59 21.59)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2955,809 +3551,11 @@
 			(type solid)
 		)
 		(fill
-			(color 255 0 0 0.1500)
-		)
-		(uuid "2b40d223-6fa3-4c31-83d2-03d4628b7488")
-		(property "Sheetname" "OuterPanelConn2"
-			(at 101.6 19.6084 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "outer_panel_conn.kicad_sch"
-			(at 101.6 42.4946 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 123.19 25.4 0)
-			(uuid "80f6561a-b045-4e67-b369-ad99e39850c1")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COMP_2" output
-			(at 123.19 31.75 0)
-			(uuid "4e7da41a-fc2e-4c77-b0a0-1c215f1f3524")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CORNER_IN" output
-			(at 123.19 38.1 0)
-			(uuid "d0e812f9-80da-40a2-9292-9fe62f534a5b")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CORNER_OUT" input
-			(at 123.19 35.56 0)
-			(uuid "e9adef2d-15eb-4c8d-b82d-e36bcb0ecb1f")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 123.19 22.86 0)
-			(uuid "a141204f-a939-4b65-b7ec-3937ffee20f0")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 123.19 29.21 0)
-			(uuid "ac01510f-f201-4ca6-a61a-ffde13c77ecd")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "5")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 186.69 20.32)
-		(size 21.59 21.59)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 0 0 0.1500)
-		)
-		(uuid "2f248288-26da-43a2-902e-a7653e827580")
-		(property "Sheetname" "OuterPanelConn4"
-			(at 186.69 19.6084 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "outer_panel_conn.kicad_sch"
-			(at 186.69 42.4946 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 208.28 25.4 0)
-			(uuid "317c0ee8-e716-4ce8-9e86-38dcbd6caada")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COMP_2" output
-			(at 208.28 31.75 0)
-			(uuid "8330040b-8231-49f5-acb2-6ec9738df95f")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CORNER_IN" output
-			(at 208.28 38.1 0)
-			(uuid "98bb6017-bf13-446d-a0c9-577e172b26a7")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CORNER_OUT" input
-			(at 208.28 35.56 0)
-			(uuid "f6345f75-15cf-4579-8408-799e4bbdc9c5")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 208.28 22.86 0)
-			(uuid "bd3c2c0b-8a33-4453-a75d-a58f1cdced03")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 208.28 29.21 0)
-			(uuid "2c81de84-9a2e-4e0f-a683-d3c12109ccd5")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "7")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 233.68 80.01)
-		(size 21.59 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
 			(color 255 153 0 0.1500)
 		)
-		(uuid "31ef6cbe-4bc3-49d3-8ead-3ad0b7dea668")
-		(property "Sheetname" "InnerPanelConn11"
-			(at 233.68 79.2984 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "inner_panel_conn.kicad_sch"
-			(at 233.68 95.8346 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 255.27 85.09 0)
-			(uuid "9c581034-c132-4924-ad28-6cf6df89142f")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COMP_2" output
-			(at 255.27 91.44 0)
-			(uuid "8c3a5cd6-41dd-4d1a-bf25-453df6dfa115")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 255.27 82.55 0)
-			(uuid "5d53aed9-645c-45b9-b76e-f47220314b2c")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 255.27 88.9 0)
-			(uuid "a4ca8375-35e0-44e1-bed1-ca5d9e8ad916")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "22")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 59.69 80.01)
-		(size 21.59 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 153 0 0.1500)
-		)
-		(uuid "3aecb663-d308-4408-b585-e9c3225685a3")
-		(property "Sheetname" "InnerPanelConn7"
-			(at 59.69 79.2984 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "inner_panel_conn.kicad_sch"
-			(at 59.69 95.8346 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 81.28 85.09 0)
-			(uuid "f2c85b33-0f3c-4960-99ac-a4161c5d4fee")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COMP_2" output
-			(at 81.28 91.44 0)
-			(uuid "2eedc99c-1d4e-4e63-8455-b723233fccca")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 81.28 82.55 0)
-			(uuid "23ba3e9b-a7ee-4310-b36c-646b231e1ffc")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 81.28 88.9 0)
-			(uuid "ae076e42-2c9e-4d3b-9e7b-bf7415292e6f")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "18")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 143.51 53.34)
-		(size 21.59 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 153 0 0.1500)
-		)
-		(uuid "4de7bdea-3385-4652-b462-8da7b0b2aa73")
-		(property "Sheetname" "InnerPanelConn3"
-			(at 143.51 52.6284 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "inner_panel_conn.kicad_sch"
-			(at 143.51 69.1646 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 165.1 58.42 0)
-			(uuid "1817a5a7-8b01-4c70-bab7-493284b01e57")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COMP_2" output
-			(at 165.1 64.77 0)
-			(uuid "923f3adc-b000-43ac-9650-11910e4ec2c7")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 165.1 55.88 0)
-			(uuid "6a5b5829-f584-43af-8345-ee7ab0672b13")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 165.1 62.23 0)
-			(uuid "da3d0c2f-c844-42d1-8c65-91f8816d2da7")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "14")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 101.6 107.95)
-		(size 21.59 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 153 0 0.1500)
-		)
-		(uuid "549fad37-21f7-4bbf-8586-d16e6b116dbc")
-		(property "Sheetname" "InnerPanelConn14"
-			(at 101.6 107.2384 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "inner_panel_conn.kicad_sch"
-			(at 101.6 123.7746 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 123.19 113.03 0)
-			(uuid "012be244-d81e-42f0-8dad-56293a7c63c7")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COMP_2" output
-			(at 123.19 119.38 0)
-			(uuid "554bfd3b-5fe0-416c-a4e5-24139a7321e4")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 123.19 110.49 0)
-			(uuid "713a80f9-3e42-42c1-b60d-922695a696dc")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 123.19 116.84 0)
-			(uuid "36d0b61e-3b03-4c51-af09-06967910771b")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "25")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 233.68 53.34)
-		(size 21.59 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 153 0 0.1500)
-		)
-		(uuid "5db45048-e2ee-4184-b7d9-880c011ba109")
-		(property "Sheetname" "InnerPanelConn5"
-			(at 233.68 52.6284 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "inner_panel_conn.kicad_sch"
-			(at 233.68 69.1646 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 255.27 58.42 0)
-			(uuid "e50e2f92-b8e1-489b-abe5-64217f246198")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COMP_2" output
-			(at 255.27 64.77 0)
-			(uuid "7edc201c-7d54-456c-8bd6-5085841d2611")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 255.27 55.88 0)
-			(uuid "6f6705cb-8336-4156-abed-c6640dad6a5c")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 255.27 62.23 0)
-			(uuid "836c1c52-7360-4e71-b3e5-69a22e353dad")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "16")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 59.69 20.32)
-		(size 21.59 21.59)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 0 0 0.1500)
-		)
-		(uuid "62f789f1-f9de-43f8-896a-ae8f646641e1")
-		(property "Sheetname" "OuterPanelConn1"
-			(at 59.69 19.6084 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "outer_panel_conn.kicad_sch"
-			(at 59.69 42.4946 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 81.28 25.4 0)
-			(uuid "d2f5e31d-ccc0-4cb0-9be5-e060f0acf947")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COMP_2" output
-			(at 81.28 31.75 0)
-			(uuid "056227dd-ad07-4ea0-9479-e1e6aff8fa51")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CORNER_IN" output
-			(at 81.28 38.1 0)
-			(uuid "7d40a6d6-e157-4f6a-bed9-249347596df7")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CORNER_OUT" input
-			(at 81.28 35.56 0)
-			(uuid "08588e6e-8c0d-4779-9a27-0d18c981efe6")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 81.28 22.86 0)
-			(uuid "88c1ecd5-38a2-4539-9e1c-f62f96be6ba4")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 81.28 29.21 0)
-			(uuid "bdfb068c-9e52-408b-b30d-7688d50d1a78")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "4")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 59.69 107.95)
-		(size 21.59 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 153 0 0.1500)
-		)
-		(uuid "63a60617-3028-4add-97d2-f181bd65d294")
-		(property "Sheetname" "InnerPanelConn13"
-			(at 59.69 107.2384 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "inner_panel_conn.kicad_sch"
-			(at 59.69 123.7746 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 81.28 113.03 0)
-			(uuid "eab32e30-a4a1-426c-af1f-c645222d5fce")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COMP_2" output
-			(at 81.28 119.38 0)
-			(uuid "71fe4fc1-50ea-466e-81f1-bb583dfb9bc7")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 81.28 110.49 0)
-			(uuid "4d241a01-f1eb-4d49-a100-a2ce0087c781")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 81.28 116.84 0)
-			(uuid "3026e50c-2aef-4f1d-a7eb-64b60e846e87")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "24")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 186.69 80.01)
-		(size 21.59 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 153 0 0.1500)
-		)
-		(uuid "6782eb74-ccb2-4e29-9649-ebe0e5c607d6")
+		(uuid "02a648d5-c8e9-4cd6-a5d0-2a40629b9b9b")
 		(property "Sheetname" "InnerPanelConn10"
-			(at 186.69 79.2984 0)
+			(at 91.44 83.1084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3766,7 +3564,7 @@
 			)
 		)
 		(property "Sheetfile" "inner_panel_conn.kicad_sch"
-			(at 186.69 95.8346 0)
+			(at 91.44 105.9946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3774,9 +3572,9 @@
 				(justify left top)
 			)
 		)
-		(pin "COMP_1" output
-			(at 208.28 85.09 0)
-			(uuid "29a18846-ef19-47f0-bf61-2ab3c0b6b2d7")
+		(pin "BUS_EN_1" input
+			(at 113.03 99.06 0)
+			(uuid "932f114f-e168-4104-ad52-d2270d04d500")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3784,9 +3582,9 @@
 				(justify right)
 			)
 		)
-		(pin "COMP_2" output
-			(at 208.28 91.44 0)
-			(uuid "70563816-e107-4f2a-ae0d-c3437623ff71")
+		(pin "BUS_EN_2" input
+			(at 113.03 101.6 0)
+			(uuid "450a319d-7e9c-430b-96d6-c08668e35990")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3794,9 +3592,9 @@
 				(justify right)
 			)
 		)
-		(pin "SIG_OUT_1_P" input
-			(at 208.28 82.55 0)
-			(uuid "3b1b5dc0-7486-4c1f-8db4-4e9ea302a588")
+		(pin "DIFF_IN_+" output
+			(at 113.03 92.71 0)
+			(uuid "a6016175-8a09-4050-abd7-7cc565db3a40")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3804,9 +3602,9 @@
 				(justify right)
 			)
 		)
-		(pin "SIG_OUT_2_P" input
-			(at 208.28 88.9 0)
-			(uuid "4becb598-4bc1-465a-b464-3fb117f19606")
+		(pin "DIFF_IN_-" output
+			(at 113.03 95.25 0)
+			(uuid "d18f099b-7bb2-4946-a778-3ba9d6a5c0e5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3814,51 +3612,9 @@
 				(justify right)
 			)
 		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "21")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 143.51 107.95)
-		(size 21.59 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 153 0 0.1500)
-		)
-		(uuid "73294853-69b5-485e-a186-3d7c0cf8e0e6")
-		(property "Sheetname" "InnerPanelConn15"
-			(at 143.51 107.2384 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "inner_panel_conn.kicad_sch"
-			(at 143.51 123.7746 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 165.1 113.03 0)
-			(uuid "c4506f33-afd3-4b22-8241-80ea473d6058")
+		(pin "DIFF_OUT_+" input
+			(at 113.03 86.36 0)
+			(uuid "a5515ffc-5871-46ad-9746-fc1f8c97c1b4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3866,991 +3622,9 @@
 				(justify right)
 			)
 		)
-		(pin "COMP_2" output
-			(at 165.1 119.38 0)
-			(uuid "4347a8dc-92e0-4c5b-86eb-6f3b424d66c9")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 165.1 110.49 0)
-			(uuid "4a891297-9ebb-4f04-995c-cf817776b4bf")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 165.1 116.84 0)
-			(uuid "b8b02ce8-b262-45a4-a267-8a4554e7e7ce")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "26")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 143.51 20.32)
-		(size 21.59 21.59)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 0 0 0.1500)
-		)
-		(uuid "973f4d5f-302d-4b04-834e-910735016415")
-		(property "Sheetname" "OuterPanelConn3"
-			(at 143.51 19.6084 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "outer_panel_conn.kicad_sch"
-			(at 143.51 42.4946 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 165.1 25.4 0)
-			(uuid "96c156d8-96dc-477d-ac77-6e4665069eaf")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COMP_2" output
-			(at 165.1 31.75 0)
-			(uuid "4783948c-eb02-44e6-9cb2-64b8a80e2460")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CORNER_IN" output
-			(at 165.1 38.1 0)
-			(uuid "56c7cd19-5237-4248-9380-924aad6793f9")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CORNER_OUT" input
-			(at 165.1 35.56 0)
-			(uuid "1aa744c0-21a5-4407-b743-087cb8a70797")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 165.1 22.86 0)
-			(uuid "f51978dc-79c6-4989-ba87-ae9fd93728fa")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 165.1 29.21 0)
-			(uuid "27894364-f659-412f-ae75-9ce4b3387e1f")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "6")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 101.6 53.34)
-		(size 21.59 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 153 0 0.1500)
-		)
-		(uuid "99cad65c-ff53-495b-9620-0aad3f94e5f9")
-		(property "Sheetname" "InnerPanelConn2"
-			(at 101.6 52.6284 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "inner_panel_conn.kicad_sch"
-			(at 101.6 69.1646 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 123.19 58.42 0)
-			(uuid "5b3e60b5-7175-466c-8063-1c46e3cd33dd")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COMP_2" output
-			(at 123.19 64.77 0)
-			(uuid "d9e70840-38ca-4f9e-a874-416f3070a680")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 123.19 55.88 0)
-			(uuid "5b8d1d90-ff31-48c3-b090-0da83a131ae8")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 123.19 62.23 0)
-			(uuid "377ea009-132c-43ec-ba62-6a652ca73e67")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "13")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 17.78 20.32)
-		(size 21.59 21.59)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 0 0 0.1500)
-		)
-		(uuid "a129a778-91a2-4428-9bb6-2e408a461234")
-		(property "Sheetname" "OuterPanelConn"
-			(at 17.78 19.6084 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "outer_panel_conn.kicad_sch"
-			(at 17.78 42.4946 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 39.37 25.4 0)
-			(uuid "7e6059e2-f5c7-40d4-839d-e116a5056035")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COMP_2" output
-			(at 39.37 31.75 0)
-			(uuid "f3c27729-7ab5-4354-ace3-c80d4ba41498")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CORNER_IN" output
-			(at 39.37 38.1 0)
-			(uuid "474c44a8-504c-4624-8525-4b76bf63f8b1")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CORNER_OUT" input
-			(at 39.37 35.56 0)
-			(uuid "55c91e73-4055-41bc-ab92-957332bb14f1")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 39.37 22.86 0)
-			(uuid "4433f4fe-9ae2-41a2-80e0-8f2e79504c7a")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 39.37 29.21 0)
-			(uuid "fdd6ee52-6f8e-4010-b8c8-4ef7bb79697d")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "9")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 233.68 20.32)
-		(size 21.59 21.59)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 0 0 0.1500)
-		)
-		(uuid "a2b72386-d855-457f-8e49-96b86ec9917e")
-		(property "Sheetname" "OuterPanelConn5"
-			(at 233.68 19.6084 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "outer_panel_conn.kicad_sch"
-			(at 233.68 42.4946 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 255.27 25.4 0)
-			(uuid "822a0dc5-bda2-46d3-a077-975041bca0c6")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COMP_2" output
-			(at 255.27 31.75 0)
-			(uuid "4430785f-7319-4b2f-928f-8563c2e76088")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CORNER_IN" output
-			(at 255.27 38.1 0)
-			(uuid "f1e4793b-8c59-4a1a-be91-ba0c3d1d5a9c")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CORNER_OUT" input
-			(at 255.27 35.56 0)
-			(uuid "2a2a96a3-92ca-445f-bf95-79f29c05ba34")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 255.27 22.86 0)
-			(uuid "b8f4deca-567f-418c-bf5d-ee71c95ada4c")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 255.27 29.21 0)
-			(uuid "4cb4650b-930f-48ec-aa55-dd7348c83d29")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "8")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 17.78 107.95)
-		(size 21.59 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 153 0 0.1500)
-		)
-		(uuid "a8b71140-0063-4355-9f00-e5d72eaa298e")
-		(property "Sheetname" "InnerPanelConn12"
-			(at 17.78 107.2384 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "inner_panel_conn.kicad_sch"
-			(at 17.78 123.7746 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 39.37 113.03 0)
-			(uuid "f05ba087-5eb2-44dd-b1b7-d4bdeb388bd5")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COMP_2" output
-			(at 39.37 119.38 0)
-			(uuid "8f4fbae1-bffd-461e-a2ee-f5839493f158")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 39.37 110.49 0)
-			(uuid "c22e8333-1cdc-4da6-91cd-09f04376cf44")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 39.37 116.84 0)
-			(uuid "564e54b2-9bda-447b-a9ad-71e547d8e706")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "23")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 59.69 135.89)
-		(size 21.59 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 255 0 0.1500)
-		)
-		(uuid "ab09b96f-400e-4bd4-a68c-904c4fb0ab46")
-		(property "Sheetname" "Dual_InnerSmallPanelConn1"
-			(at 59.69 135.1784 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "d_inner_sml_panel_conn.kicad_sch"
-			(at 59.69 151.7146 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 81.28 140.97 0)
-			(uuid "1470258e-ef8a-49c5-8604-2b173868cb50")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COMP_2" output
-			(at 81.28 147.32 0)
-			(uuid "01c4abb0-d787-4382-b049-748e44011ea7")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 81.28 138.43 0)
-			(uuid "5d89cc37-6811-4b89-b677-216ce671c295")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 81.28 144.78 0)
-			(uuid "9674a179-f55a-41d7-b5a3-6ceecec060fd")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "29")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 186.69 107.95)
-		(size 21.59 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 153 0 0.1500)
-		)
-		(uuid "b6278005-245c-4fc1-8a1e-9d7f61bafe37")
-		(property "Sheetname" "InnerPanelConn16"
-			(at 186.69 107.2384 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "inner_panel_conn.kicad_sch"
-			(at 186.69 123.7746 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 208.28 113.03 0)
-			(uuid "784c5c6e-5e88-4de6-8c8b-3191705d1a0d")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COMP_2" output
-			(at 208.28 119.38 0)
-			(uuid "e6841556-3463-492e-b198-6e5eb730daaf")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 208.28 110.49 0)
-			(uuid "03676313-ca25-488e-8e23-a25e916d2dc6")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 208.28 116.84 0)
-			(uuid "dd3cb3d6-e022-4ecf-a2ee-9f119127fa97")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "27")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 17.78 53.34)
-		(size 21.59 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 153 0 0.1500)
-		)
-		(uuid "c0c89bf1-1528-4115-8b35-09ba56171446")
-		(property "Sheetname" "InnerPanelConn"
-			(at 17.78 52.6284 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "inner_panel_conn.kicad_sch"
-			(at 17.78 69.1646 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 39.37 58.42 0)
-			(uuid "5d929c71-f3f8-486f-afd0-0fc4d64b51f6")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COMP_2" output
-			(at 39.37 64.77 0)
-			(uuid "1107b24b-827d-4f96-ad40-2331de0d4232")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 39.37 55.88 0)
-			(uuid "f9ec3f43-e88c-4ff3-a408-acf9b58aba65")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 39.37 62.23 0)
-			(uuid "8156a7d1-c093-4dbb-ade3-f2ad24ceaae5")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "10")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 233.68 107.95)
-		(size 21.59 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 153 0 0.1500)
-		)
-		(uuid "e1130a7e-69bb-4f89-8b8f-237e0a40a36b")
-		(property "Sheetname" "InnerPanelConn17"
-			(at 233.68 107.2384 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "inner_panel_conn.kicad_sch"
-			(at 233.68 123.7746 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 255.27 113.03 0)
-			(uuid "9b46baed-cc96-4ed9-bb8c-d41d33d45e8d")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COMP_2" output
-			(at 255.27 119.38 0)
-			(uuid "45138ee2-bcb4-4bf2-baed-0ef5f00c6f5c")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 255.27 110.49 0)
-			(uuid "3d116314-cea1-4b57-b503-c2bd32e17022")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 255.27 116.84 0)
-			(uuid "12f280b9-d551-4c80-8295-fc046f704a1d")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "28")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 17.78 135.89)
-		(size 21.59 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 255 0 0.1500)
-		)
-		(uuid "e7079e5f-f702-4baf-954e-b0a2e0f3c6a1")
-		(property "Sheetname" "Dual_InnerSmallPanelConn"
-			(at 17.78 135.1784 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "d_inner_sml_panel_conn.kicad_sch"
-			(at 17.78 151.7146 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 39.37 140.97 0)
-			(uuid "fa64fa2b-c2a3-4584-882d-e9ad08109575")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COMP_2" output
-			(at 39.37 147.32 0)
-			(uuid "426b7e60-06ac-4261-837e-4a7aac80d5f4")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 39.37 138.43 0)
-			(uuid "944152f2-19e0-4103-8be6-a5d479d251ca")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 39.37 144.78 0)
-			(uuid "9fbe0eaf-1cd3-4693-8cf4-dcc73b2f7fa5")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "11")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 143.51 80.01)
-		(size 21.59 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 153 0 0.1500)
-		)
-		(uuid "f2e808b5-3f26-4733-b3f7-d6a2dc9c1b0a")
-		(property "Sheetname" "InnerPanelConn9"
-			(at 143.51 79.2984 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "inner_panel_conn.kicad_sch"
-			(at 143.51 95.8346 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "COMP_1" output
-			(at 165.1 85.09 0)
-			(uuid "47753b71-0890-400d-a8e6-d84224dbeaaf")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "COMP_2" output
-			(at 165.1 91.44 0)
-			(uuid "8c04c080-93b7-407f-80be-8074dde9f3b1")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_1_P" input
-			(at 165.1 82.55 0)
-			(uuid "dfdc168b-97f8-4963-bfaa-0e8b2d1190cf")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SIG_OUT_2_P" input
-			(at 165.1 88.9 0)
-			(uuid "fe035609-a496-4927-8415-8d99b5bf4883")
+		(pin "DIFF_OUT_-" input
+			(at 113.03 88.9 0)
+			(uuid "2bb9fd47-3e8d-452f-8aae-69152ba4f26b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4867,8 +3641,8 @@
 		)
 	)
 	(sheet
-		(at 101.6 135.89)
-		(size 21.59 15.24)
+		(at 312.42 111.76)
+		(size 21.59 29.21)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4879,11 +3653,11 @@
 			(type solid)
 		)
 		(fill
-			(color 255 255 0 0.1500)
+			(color 255 0 0 0.1500)
 		)
-		(uuid "f6d10a20-eaf4-4a32-b19b-ec1ae3f725f3")
-		(property "Sheetname" "Dual_InnerSmallPanelConn2"
-			(at 101.6 135.1784 0)
+		(uuid "1a97bd20-dfd6-41dd-ba82-a903ceb63370")
+		(property "Sheetname" "OuterPanelConn5"
+			(at 312.42 111.0484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4891,8 +3665,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "d_inner_sml_panel_conn.kicad_sch"
-			(at 101.6 151.7146 0)
+		(property "Sheetfile" "outer_panel_conn.kicad_sch"
+			(at 312.42 141.5546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4900,9 +3674,9 @@
 				(justify left top)
 			)
 		)
-		(pin "COMP_1" output
-			(at 123.19 140.97 0)
-			(uuid "55e39ac8-36ae-43e8-a327-337e2f48c675")
+		(pin "BUS_EN_1" input
+			(at 334.01 127 0)
+			(uuid "897abff1-f377-4a1c-81e5-52e4ff6379d2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4910,9 +3684,9 @@
 				(justify right)
 			)
 		)
-		(pin "COMP_2" output
-			(at 123.19 147.32 0)
-			(uuid "a624fcfe-177a-4ac8-b300-7f6ed5ac6d06")
+		(pin "BUS_EN_2" input
+			(at 334.01 129.54 0)
+			(uuid "6b9c9f18-dd58-4eba-b371-c6c87995e085")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4920,9 +3694,9 @@
 				(justify right)
 			)
 		)
-		(pin "SIG_OUT_1_P" input
-			(at 123.19 138.43 0)
-			(uuid "184e5c45-54c1-40c2-8e48-e27c6b8a6d87")
+		(pin "CORNER_IN" output
+			(at 334.01 135.89 0)
+			(uuid "a7ddbd36-f0ed-4bbb-a5fd-dc7f091adb36")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4930,9 +3704,49 @@
 				(justify right)
 			)
 		)
-		(pin "SIG_OUT_2_P" input
-			(at 123.19 144.78 0)
-			(uuid "e12f7f5f-f9b6-4263-952d-1c7596c2d81d")
+		(pin "CORNER_OUT" input
+			(at 334.01 133.35 0)
+			(uuid "57448253-af89-411d-8d61-31598ecaaa02")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_+" output
+			(at 334.01 120.65 0)
+			(uuid "b2c5a6ca-74b3-42f5-8a75-40d17430b0e3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_-" output
+			(at 334.01 123.19 0)
+			(uuid "0c65a7c4-be17-4af0-8581-d9705ec109c0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 334.01 114.3 0)
+			(uuid "dbc85155-ad51-406b-9f3d-36f1d11b6d8a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 334.01 116.84 0)
+			(uuid "f56f5531-1a19-4cef-a202-16fdb19292eb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4943,14 +3757,14 @@
 		(instances
 			(project "cerberus"
 				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
-					(page "30")
+					(page "26")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 17.78 80.01)
-		(size 21.59 15.24)
+		(at 279.4 83.82)
+		(size 21.59 21.59)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4963,9 +3777,9 @@
 		(fill
 			(color 255 153 0 0.1500)
 		)
-		(uuid "f73638f2-33a7-4168-82e9-7fbc0b8c166e")
-		(property "Sheetname" "InnerPanelConn6"
-			(at 17.78 79.2984 0)
+		(uuid "2d75a103-c4af-4732-ac92-8a44cd96dae6")
+		(property "Sheetname" "InnerPanelConn12"
+			(at 279.4 83.1084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4974,7 +3788,7 @@
 			)
 		)
 		(property "Sheetfile" "inner_panel_conn.kicad_sch"
-			(at 17.78 95.8346 0)
+			(at 279.4 105.9946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4982,9 +3796,9 @@
 				(justify left top)
 			)
 		)
-		(pin "COMP_1" output
-			(at 39.37 85.09 0)
-			(uuid "d321c1ab-66e1-448c-8d52-ac651f275081")
+		(pin "BUS_EN_1" input
+			(at 300.99 99.06 0)
+			(uuid "e927359c-fd8b-4d4a-92bb-2844e2aa5392")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4992,9 +3806,9 @@
 				(justify right)
 			)
 		)
-		(pin "COMP_2" output
-			(at 39.37 91.44 0)
-			(uuid "f6b2601c-fef0-4e85-bf28-bf71e47d6da6")
+		(pin "BUS_EN_2" input
+			(at 300.99 101.6 0)
+			(uuid "defd2523-1fe6-4096-b608-8e76a9ae9a19")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5002,9 +3816,9 @@
 				(justify right)
 			)
 		)
-		(pin "SIG_OUT_1_P" input
-			(at 39.37 82.55 0)
-			(uuid "2e755a50-4e93-4d8c-a5cd-30d1925b67bb")
+		(pin "DIFF_IN_+" output
+			(at 300.99 92.71 0)
+			(uuid "57ba1880-e7ba-44d9-8792-f22c6b44d481")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5012,9 +3826,559 @@
 				(justify right)
 			)
 		)
-		(pin "SIG_OUT_2_P" input
-			(at 39.37 88.9 0)
-			(uuid "099259c0-7251-4fa8-a1e1-6d90b04cfcba")
+		(pin "DIFF_IN_-" output
+			(at 300.99 95.25 0)
+			(uuid "a68bec5f-ca05-4e35-b956-9976965c3c61")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 300.99 86.36 0)
+			(uuid "16c79679-6950-4d98-be5c-735b6c68c9d2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 300.99 88.9 0)
+			(uuid "ca91359a-a2dc-4c6d-9536-ceb70c4d466f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cerberus"
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
+					(page "22")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 312.42 21.59)
+		(size 21.59 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 0 0.1500)
+		)
+		(uuid "3b447ddf-32f7-46b7-89d7-2c343546853f")
+		(property "Sheetname" "Dual_InnerSmallPanelConn2"
+			(at 312.42 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "d_inner_sml_panel_conn.kicad_sch"
+			(at 312.42 43.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUS_EN_1" input
+			(at 334.01 36.83 0)
+			(uuid "cdb95626-ebcd-4bad-bdcc-c8609892439b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUS_EN_2" input
+			(at 334.01 39.37 0)
+			(uuid "0a7e00df-7034-428f-9449-cbda68f65946")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_+" output
+			(at 334.01 30.48 0)
+			(uuid "8fc91775-56eb-4f51-a855-d15beaafe632")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_-" output
+			(at 334.01 33.02 0)
+			(uuid "6407dca3-9138-467b-ae9a-131706a1b5cc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 334.01 24.13 0)
+			(uuid "05edb9f0-0a0a-4be3-b380-29d522a137a9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 334.01 26.67 0)
+			(uuid "678148aa-5ed9-474a-801d-27a567d9a2b0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cerberus"
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
+					(page "28")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 279.4 147.32)
+		(size 21.59 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 153 0 0.1500)
+		)
+		(uuid "3e92e7da-1847-4c8a-9585-72ccfb08d70c")
+		(property "Sheetname" "InnerPanelConn13"
+			(at 279.4 146.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "inner_panel_conn.kicad_sch"
+			(at 279.4 169.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUS_EN_1" input
+			(at 300.99 162.56 0)
+			(uuid "dfc4f667-f15b-42ce-863b-a9334cc3d695")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUS_EN_2" input
+			(at 300.99 165.1 0)
+			(uuid "08354d8e-8690-4956-ac21-41c8d84410dc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_+" output
+			(at 300.99 156.21 0)
+			(uuid "50b16ce4-6225-4fd3-8c82-b4f478f61092")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_-" output
+			(at 300.99 158.75 0)
+			(uuid "c8cdd53e-617b-4a0d-a46b-9a6ab981dec8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 300.99 149.86 0)
+			(uuid "47d95961-0b5c-4fb1-8f00-bb970df50b8a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 300.99 152.4 0)
+			(uuid "10c24a8e-5e27-43f6-bfb3-55e5f66306e6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cerberus"
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
+					(page "23")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 342.9 83.82)
+		(size 21.59 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 153 0 0.1500)
+		)
+		(uuid "4b6c376c-5fc5-4e29-b6ca-d369e364a16b")
+		(property "Sheetname" "InnerPanelConn14"
+			(at 342.9 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "inner_panel_conn.kicad_sch"
+			(at 342.9 105.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUS_EN_1" input
+			(at 364.49 99.06 0)
+			(uuid "e05ed31a-eba5-450a-b0db-789d59ec788d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUS_EN_2" input
+			(at 364.49 101.6 0)
+			(uuid "31781182-e87b-4a0a-a1c3-9c70387f93d2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_+" output
+			(at 364.49 92.71 0)
+			(uuid "e64cddce-86ea-4ebb-a6f3-e4e7a46405a6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_-" output
+			(at 364.49 95.25 0)
+			(uuid "62dc476a-6c55-4ccd-be33-a1a983f30cf9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 364.49 86.36 0)
+			(uuid "cf0f4ebd-2f60-4a42-add9-9c4fb5929346")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 364.49 88.9 0)
+			(uuid "2e68f879-635f-4936-9d9c-29c8878adb57")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cerberus"
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
+					(page "24")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 222.25 210.82)
+		(size 21.59 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 153 0 0.1500)
+		)
+		(uuid "50f7d364-48c5-4183-a98a-91c0890c02b3")
+		(property "Sheetname" "InnerPanelConn7"
+			(at 222.25 210.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "inner_panel_conn.kicad_sch"
+			(at 222.25 232.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUS_EN_1" input
+			(at 243.84 226.06 0)
+			(uuid "1d6bcf30-abbf-4013-b5d1-397ab33c3b65")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUS_EN_2" input
+			(at 243.84 228.6 0)
+			(uuid "01b30f72-bd45-4736-bec9-6474a03d106a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_+" output
+			(at 243.84 219.71 0)
+			(uuid "c931496f-4e97-4aef-bee3-40e1feef890b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_-" output
+			(at 243.84 222.25 0)
+			(uuid "72884087-1a6a-4cd3-ae26-78a5ad56fc29")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 243.84 213.36 0)
+			(uuid "d0a4e952-b765-466f-b373-8881741b2dd3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 243.84 215.9 0)
+			(uuid "cb5a17ec-6464-409d-8566-033ebb9d16fa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cerberus"
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 60.96 111.76)
+		(size 21.59 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 0 0 0.1500)
+		)
+		(uuid "5228cfff-ebfe-4819-acc5-b61d0d3dc230")
+		(property "Sheetname" "OuterPanelConn4"
+			(at 60.96 111.0484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "outer_panel_conn.kicad_sch"
+			(at 60.96 141.5546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUS_EN_1" input
+			(at 82.55 127 0)
+			(uuid "d228c30e-4999-41bf-9ae4-468c544b7dcf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUS_EN_2" input
+			(at 82.55 129.54 0)
+			(uuid "6c2e0096-7b2f-4ec7-86e1-45f919efa5fb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CORNER_IN" output
+			(at 82.55 135.89 0)
+			(uuid "4cb46574-2b57-422a-b243-6190952c6607")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CORNER_OUT" input
+			(at 82.55 133.35 0)
+			(uuid "062eab58-43b2-4146-90ff-4b99ddf3fbdc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_+" output
+			(at 82.55 120.65 0)
+			(uuid "e50b9be6-3d3b-488b-a963-2810897b4e94")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_-" output
+			(at 82.55 123.19 0)
+			(uuid "cfd62ff3-3d87-4e07-87ab-09b0b5b52206")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 82.55 114.3 0)
+			(uuid "afabe7f1-ddd2-4d79-8a17-03353eb1f040")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 82.55 116.84 0)
+			(uuid "be2776d7-b708-434a-9600-529a7af32007")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5026,6 +4390,1922 @@
 			(project "cerberus"
 				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
 					(page "17")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 342.9 147.32)
+		(size 21.59 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 153 0 0.1500)
+		)
+		(uuid "57e9fe54-289a-44a7-841c-1881906a25d8")
+		(property "Sheetname" "InnerPanelConn15"
+			(at 342.9 146.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "inner_panel_conn.kicad_sch"
+			(at 342.9 169.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUS_EN_1" input
+			(at 364.49 162.56 0)
+			(uuid "9e8ecdba-1eb0-4426-90ed-8938f4db5eab")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUS_EN_2" input
+			(at 364.49 165.1 0)
+			(uuid "c74c06ea-febe-4b04-b639-302678608b30")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_+" output
+			(at 364.49 156.21 0)
+			(uuid "6f740a15-0967-468f-bf89-7430b7f87ca7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_-" output
+			(at 364.49 158.75 0)
+			(uuid "c40bcb01-a4a5-40f5-8cb9-978305a8b6da")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 364.49 149.86 0)
+			(uuid "a4f9e702-65cc-4108-b3ad-8f73898af755")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 364.49 152.4 0)
+			(uuid "e925f1fa-16e6-4c17-a1f3-63968161a64c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cerberus"
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
+					(page "25")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 186.69 111.76)
+		(size 21.59 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 0 0 0.1500)
+		)
+		(uuid "58569036-4dc1-4fd7-a67b-2373399a3f9d")
+		(property "Sheetname" "OuterPanelConn1"
+			(at 186.69 111.0484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "outer_panel_conn.kicad_sch"
+			(at 186.69 141.5546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUS_EN_1" input
+			(at 208.28 127 0)
+			(uuid "6d1071a6-6d40-488d-ac5f-67fae485fff2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUS_EN_2" input
+			(at 208.28 129.54 0)
+			(uuid "81fa4ad1-112d-4da2-a843-8a6a9c68ce4c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CORNER_IN" output
+			(at 208.28 135.89 0)
+			(uuid "5cf2e00d-bdea-445d-b297-c32c73df60c3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CORNER_OUT" input
+			(at 208.28 133.35 0)
+			(uuid "9ab3be5a-d565-4bc1-935b-a4de3cab073b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_+" output
+			(at 208.28 120.65 0)
+			(uuid "925bdc34-667f-4cb5-b727-1c95070b85a7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_-" output
+			(at 208.28 123.19 0)
+			(uuid "cac1ca81-8e2a-4337-b9ca-6fb49c98ae17")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 208.28 114.3 0)
+			(uuid "2b683510-4242-46a9-9c05-8bc8d723bbb7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 208.28 116.84 0)
+			(uuid "65ecc8c8-74ce-4db2-a5e3-5f9287e44ef8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cerberus"
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 222.25 83.82)
+		(size 21.59 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 153 0 0.1500)
+		)
+		(uuid "6587fe11-f179-448e-9bfd-eca151003d78")
+		(property "Sheetname" "InnerPanelConn3"
+			(at 222.25 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "inner_panel_conn.kicad_sch"
+			(at 222.25 105.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUS_EN_1" input
+			(at 243.84 99.06 0)
+			(uuid "665b5074-d54f-45d4-8f75-f1e7c9e21727")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUS_EN_2" input
+			(at 243.84 101.6 0)
+			(uuid "daab2f0b-bc51-49d5-924e-4b314271868f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_+" output
+			(at 243.84 92.71 0)
+			(uuid "512a9805-c274-4269-b0c2-2860784ad155")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_-" output
+			(at 243.84 95.25 0)
+			(uuid "106d6808-d511-4df1-87aa-1ed97af12447")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 243.84 86.36 0)
+			(uuid "54fd6075-f727-435e-b40c-41a25d72e3f3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 243.84 88.9 0)
+			(uuid "5247f9c8-bcf4-4ec6-baa7-bf3516303765")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cerberus"
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 27.94 83.82)
+		(size 21.59 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 153 0 0.1500)
+		)
+		(uuid "695fe25f-a99c-40c6-8d13-07bfcea42cd0")
+		(property "Sheetname" "InnerPanelConn8"
+			(at 27.94 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "inner_panel_conn.kicad_sch"
+			(at 27.94 105.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUS_EN_1" input
+			(at 49.53 99.06 0)
+			(uuid "7833cb24-828c-4b37-aa31-bcd2c42bad69")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUS_EN_2" input
+			(at 49.53 101.6 0)
+			(uuid "98ee26eb-9592-48b8-baf2-495d58ab14f6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_+" output
+			(at 49.53 92.71 0)
+			(uuid "6387c637-ef8c-459d-820c-affe1369dab0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_-" output
+			(at 49.53 95.25 0)
+			(uuid "b47c1cef-e82c-4c75-84a5-77722434d5fc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 49.53 86.36 0)
+			(uuid "f9da2a5f-b574-40f7-8560-6ad2d3e18170")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 49.53 88.9 0)
+			(uuid "dcedcac7-c8eb-4b43-8528-3512b8f67d53")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cerberus"
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
+					(page "18")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 186.69 238.76)
+		(size 21.59 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 0 0 0.1500)
+		)
+		(uuid "72cf3acd-897f-4080-96fe-6e0da0e6807e")
+		(property "Sheetname" "OuterPanelConn3"
+			(at 186.69 238.0484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "outer_panel_conn.kicad_sch"
+			(at 186.69 268.5546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUS_EN_1" input
+			(at 208.28 254 0)
+			(uuid "c482c161-cdb9-41b9-bee3-32cc1357f2e5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUS_EN_2" input
+			(at 208.28 256.54 0)
+			(uuid "089b909f-ed86-4869-aeab-704ed35ef975")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CORNER_IN" output
+			(at 208.28 262.89 0)
+			(uuid "a286e130-ee65-44df-9bae-da6d8330fc8d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CORNER_OUT" input
+			(at 208.28 260.35 0)
+			(uuid "64c9b129-7c42-4b61-871e-8b9732e93a0b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_+" output
+			(at 208.28 247.65 0)
+			(uuid "47728bef-67ef-418f-9edb-b76d5baadfb9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_-" output
+			(at 208.28 250.19 0)
+			(uuid "75cb7221-b162-4e38-bb05-82653ad1919a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 208.28 241.3 0)
+			(uuid "b4f1092a-51f6-4c98-bb3a-6fa15fc4e7bd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 208.28 243.84 0)
+			(uuid "0b8c1df5-99a1-4725-a624-9f30ac42256c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cerberus"
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
+					(page "16")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 148.59 147.32)
+		(size 21.59 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 153 0 0.1500)
+		)
+		(uuid "79e559e2-7885-4197-a01c-03d1632de328")
+		(property "Sheetname" "InnerPanelConn4"
+			(at 148.59 146.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "inner_panel_conn.kicad_sch"
+			(at 148.59 169.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUS_EN_1" input
+			(at 170.18 162.56 0)
+			(uuid "0de42b60-740d-47df-8f81-8f3f57d43674")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUS_EN_2" input
+			(at 170.18 165.1 0)
+			(uuid "cab0916a-1302-4718-befc-d477aadfb106")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_+" output
+			(at 170.18 156.21 0)
+			(uuid "189ca434-e16e-480c-b09f-8de02a067da1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_-" output
+			(at 170.18 158.75 0)
+			(uuid "cf9cfc68-b36f-4936-aeab-fc29f89beb08")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 170.18 149.86 0)
+			(uuid "0d777af4-c14d-4a7d-b487-13709301d820")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 170.18 152.4 0)
+			(uuid "ce1c98ef-a160-4b88-bc68-e7e67a5e3186")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cerberus"
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 60.96 21.59)
+		(size 21.59 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 0 0.1500)
+		)
+		(uuid "8018c62c-9360-4349-9101-6cb5b11399a3")
+		(property "Sheetname" "Dual_InnerSmallPanelConn1"
+			(at 60.96 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "d_inner_sml_panel_conn.kicad_sch"
+			(at 60.96 43.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUS_EN_1" input
+			(at 82.55 36.83 0)
+			(uuid "ec908e34-931d-47cd-b23e-58f6f8004ad3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUS_EN_2" input
+			(at 82.55 39.37 0)
+			(uuid "f241c5fd-fdc9-4a37-8073-bf3ca95a6c88")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_+" output
+			(at 82.55 30.48 0)
+			(uuid "d4368140-0aa0-475e-be12-b6c6439d0ea0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_-" output
+			(at 82.55 33.02 0)
+			(uuid "3ad031e6-20e3-4f12-9163-a558959dc120")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 82.55 24.13 0)
+			(uuid "b3c89456-f35d-4018-931f-bda81970a92c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 82.55 26.67 0)
+			(uuid "fce8593f-e117-4d37-af41-7e778c70b440")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cerberus"
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
+					(page "27")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 222.25 147.32)
+		(size 21.59 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 153 0 0.1500)
+		)
+		(uuid "8f6bd69e-daa1-4693-a248-b1c357a712da")
+		(property "Sheetname" "InnerPanelConn5"
+			(at 222.25 146.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "inner_panel_conn.kicad_sch"
+			(at 222.25 169.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUS_EN_1" input
+			(at 243.84 162.56 0)
+			(uuid "1f492017-c0be-4344-a7a6-0b47c130e6ce")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUS_EN_2" input
+			(at 243.84 165.1 0)
+			(uuid "ec55b6ef-d976-4926-8d21-770707d4014f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_+" output
+			(at 243.84 156.21 0)
+			(uuid "4f74a50b-3588-4831-a468-feb6a1cc0389")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_-" output
+			(at 243.84 158.75 0)
+			(uuid "5a49e077-545c-4a18-ac5f-9a93a15fa2ea")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 243.84 149.86 0)
+			(uuid "0b9280a4-87d3-4997-9de5-8a54bd0aa078")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 243.84 152.4 0)
+			(uuid "84baa34f-90fb-43d2-b9b2-f3ee6efcb36d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cerberus"
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 186.69 175.26)
+		(size 21.59 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 0 0 0.1500)
+		)
+		(uuid "97dffa8a-ea0b-41be-9083-3b058c75ae36")
+		(property "Sheetname" "OuterPanelConn2"
+			(at 186.69 174.5484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "outer_panel_conn.kicad_sch"
+			(at 186.69 205.0546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUS_EN_1" input
+			(at 208.28 190.5 0)
+			(uuid "498714bb-e746-4ca4-a915-50e79a390b92")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUS_EN_2" input
+			(at 208.28 193.04 0)
+			(uuid "b4fad666-b663-4fe0-aa8e-9f87693e46f4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CORNER_IN" output
+			(at 208.28 199.39 0)
+			(uuid "3e47932c-2735-4da7-aa8a-d3ba4f4e22a0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CORNER_OUT" input
+			(at 208.28 196.85 0)
+			(uuid "53defed0-3871-4324-a243-27c0510f1564")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_+" output
+			(at 208.28 184.15 0)
+			(uuid "c46fb619-5ea9-4b4f-815c-aee1046a0bf5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_-" output
+			(at 208.28 186.69 0)
+			(uuid "7b6462d2-3bfe-4f1c-96fd-665ed174a1c9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 208.28 177.8 0)
+			(uuid "64ccb74b-a8fd-421e-9be4-c80e0f147db3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 208.28 180.34 0)
+			(uuid "1958d5ce-29d1-4ce5-8a0b-500c7d177442")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cerberus"
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 312.42 210.82)
+		(size 21.59 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 0 0.1500)
+		)
+		(uuid "9ce84aee-2fad-4537-9822-88907c64b2d7")
+		(property "Sheetname" "Dual_InnerSmallPanelConn3"
+			(at 312.42 210.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "d_inner_sml_panel_conn.kicad_sch"
+			(at 312.42 232.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUS_EN_1" input
+			(at 334.01 226.06 0)
+			(uuid "8c602f0d-7815-4018-8806-b67285db76d2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUS_EN_2" input
+			(at 334.01 228.6 0)
+			(uuid "a8cdb395-b71d-4b83-a585-f748253188c0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_+" output
+			(at 334.01 219.71 0)
+			(uuid "cbc134e8-a83e-4d8a-b4be-89791577fdee")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_-" output
+			(at 334.01 222.25 0)
+			(uuid "12e4cad7-2086-404a-af5a-8616753c9967")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 334.01 213.36 0)
+			(uuid "f62fa6c5-7b87-4e28-8a78-b8bee99991db")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 334.01 215.9 0)
+			(uuid "53e46a34-c202-419b-ae7a-ba82c938e65c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cerberus"
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
+					(page "29")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 186.69 49.53)
+		(size 21.59 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 0 0 0.1500)
+		)
+		(uuid "a129a778-91a2-4428-9bb6-2e408a461234")
+		(property "Sheetname" "OuterPanelConn"
+			(at 186.69 48.8184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "outer_panel_conn.kicad_sch"
+			(at 186.69 79.3246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUS_EN_1" input
+			(at 208.28 64.77 0)
+			(uuid "66f523b1-f4d8-4e15-af64-bde05cb14872")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUS_EN_2" input
+			(at 208.28 67.31 0)
+			(uuid "9bc926f0-19c4-4928-bd12-00f0f7a9fe84")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CORNER_IN" output
+			(at 208.28 73.66 0)
+			(uuid "4dd9b4bf-abbf-4e16-b3ac-91afba17f9e9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CORNER_OUT" input
+			(at 208.28 71.12 0)
+			(uuid "92e8b989-5eb4-43ea-86fe-98b5aecb6b3f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_+" output
+			(at 208.28 58.42 0)
+			(uuid "0150185e-8c8b-4d98-a896-bcf3e100e9e2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_-" output
+			(at 208.28 60.96 0)
+			(uuid "a844cd5d-5891-4a29-9f6d-2d4ef6f8e045")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 208.28 52.07 0)
+			(uuid "7b013668-80cc-4e56-b253-7967467bc1c7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 208.28 54.61 0)
+			(uuid "da849367-6aa9-46fe-a1ff-aac0d3b14f0e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cerberus"
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 27.94 147.32)
+		(size 21.59 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 153 0 0.1500)
+		)
+		(uuid "bd613b18-b24b-49ce-80cc-c4c040a652fb")
+		(property "Sheetname" "InnerPanelConn9"
+			(at 27.94 146.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "inner_panel_conn.kicad_sch"
+			(at 27.94 169.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUS_EN_1" input
+			(at 49.53 162.56 0)
+			(uuid "f45be063-0d2a-4db3-bf35-ede9e85a041e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUS_EN_2" input
+			(at 49.53 165.1 0)
+			(uuid "8bef98be-5e0b-44ff-9ddf-03faa5d580b8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_+" output
+			(at 49.53 156.21 0)
+			(uuid "bcd5beeb-b6cb-4677-be11-adfa65900f88")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_-" output
+			(at 49.53 158.75 0)
+			(uuid "576742ab-a6c3-4260-b9fa-11963d963e24")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 49.53 149.86 0)
+			(uuid "5ed8011f-a63f-4ed3-b0e1-f18f9fe59a7b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 49.53 152.4 0)
+			(uuid "d66d22ee-3a8e-4198-8024-45baf00cb48c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cerberus"
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
+					(page "19")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 148.59 21.59)
+		(size 21.59 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 153 0 0.1500)
+		)
+		(uuid "c0c89bf1-1528-4115-8b35-09ba56171446")
+		(property "Sheetname" "InnerPanelConn"
+			(at 148.59 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "inner_panel_conn.kicad_sch"
+			(at 148.59 43.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUS_EN_1" input
+			(at 170.18 36.83 0)
+			(uuid "cbc107ff-0f45-4b33-822d-a3532b7c75d5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUS_EN_2" input
+			(at 170.18 39.37 0)
+			(uuid "7d184539-7d3c-46a7-a3d3-595c747462f8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_+" output
+			(at 170.18 30.48 0)
+			(uuid "bb0d7053-aade-481f-9f72-68aa826cd699")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_-" output
+			(at 170.18 33.02 0)
+			(uuid "d3775fe2-f5f7-4694-b991-e70a6b66ea61")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 170.18 24.13 0)
+			(uuid "867836da-48ef-4dba-92bc-a40145206813")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 170.18 26.67 0)
+			(uuid "37414d5e-2f30-47fb-a366-89864d7e994f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cerberus"
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 91.44 147.32)
+		(size 21.59 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 153 0 0.1500)
+		)
+		(uuid "c5ee07e8-43e1-44ec-918b-5ddd8dd52ecc")
+		(property "Sheetname" "InnerPanelConn11"
+			(at 91.44 146.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "inner_panel_conn.kicad_sch"
+			(at 91.44 169.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUS_EN_1" input
+			(at 113.03 162.56 0)
+			(uuid "2ca70bf0-a2dd-4dea-9ce4-f4496c4988d6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUS_EN_2" input
+			(at 113.03 165.1 0)
+			(uuid "23284ea9-35a8-4544-b064-ce938747360c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_+" output
+			(at 113.03 156.21 0)
+			(uuid "dca77e9f-32ae-406b-b7b2-9d2148728bbe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_-" output
+			(at 113.03 158.75 0)
+			(uuid "a4fa14f1-3692-4a86-924d-f79ee1556599")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 113.03 149.86 0)
+			(uuid "d742a2db-de07-4d23-aaa6-a2d793af6910")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 113.03 152.4 0)
+			(uuid "b8091a6e-8bf9-454e-a3a0-86461b92279c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cerberus"
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
+					(page "21")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 148.59 83.82)
+		(size 21.59 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 153 0 0.1500)
+		)
+		(uuid "c69d9cdc-4f08-4a6c-b135-6bd94be81495")
+		(property "Sheetname" "InnerPanelConn2"
+			(at 148.59 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "inner_panel_conn.kicad_sch"
+			(at 148.59 105.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUS_EN_1" input
+			(at 170.18 99.06 0)
+			(uuid "990dc6f4-ec40-416d-8966-35e34028f248")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUS_EN_2" input
+			(at 170.18 101.6 0)
+			(uuid "ca378144-911a-4427-818e-224033939353")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_+" output
+			(at 170.18 92.71 0)
+			(uuid "25d1d374-c161-4c8a-8059-87d71b2713b8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_-" output
+			(at 170.18 95.25 0)
+			(uuid "26ea087f-7731-4eba-9cca-5b4451c0acdf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 170.18 86.36 0)
+			(uuid "6186de40-6bef-4539-b8ae-25c044904d75")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 170.18 88.9 0)
+			(uuid "6c29870a-2ac8-441a-98b3-818b47bd37fc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cerberus"
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 222.25 21.59)
+		(size 21.59 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 153 0 0.1500)
+		)
+		(uuid "d85c5bff-b2b8-44ba-865d-76d091f66d1d")
+		(property "Sheetname" "InnerPanelConn1"
+			(at 222.25 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "inner_panel_conn.kicad_sch"
+			(at 222.25 43.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUS_EN_1" input
+			(at 243.84 36.83 0)
+			(uuid "66fae59b-df54-4b07-97ea-7016bbb10716")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUS_EN_2" input
+			(at 243.84 39.37 0)
+			(uuid "4f6dba41-6518-4f85-96af-9044b2145300")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_+" output
+			(at 243.84 30.48 0)
+			(uuid "fd9f8c05-ab92-413a-a4b2-2a60a305b218")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_-" output
+			(at 243.84 33.02 0)
+			(uuid "7acd60b2-ae0f-4139-9b58-8b3a4d0d8e77")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 243.84 24.13 0)
+			(uuid "29e6a0fd-8ac9-4616-ba2b-caffa0e195d0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 243.84 26.67 0)
+			(uuid "9d11116f-0bf0-4eff-8ff2-0b66d27e62bc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cerberus"
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 148.59 210.82)
+		(size 21.59 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 153 0 0.1500)
+		)
+		(uuid "db6ae051-a266-412a-a074-024bb14b00ef")
+		(property "Sheetname" "InnerPanelConn6"
+			(at 148.59 210.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "inner_panel_conn.kicad_sch"
+			(at 148.59 232.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUS_EN_1" input
+			(at 170.18 226.06 0)
+			(uuid "b1935950-b018-4aa1-bb48-0bfc590ab9c0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUS_EN_2" input
+			(at 170.18 228.6 0)
+			(uuid "035a5e11-c944-48e9-b3f1-233168c9fc66")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_+" output
+			(at 170.18 219.71 0)
+			(uuid "959f1e79-6fcc-4bcf-b535-14e6f17040b0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_-" output
+			(at 170.18 222.25 0)
+			(uuid "c73aa508-91c2-4bef-bd16-6cb7665da7d1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 170.18 213.36 0)
+			(uuid "e0a014ed-b11e-409c-8b84-128b2104b503")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 170.18 215.9 0)
+			(uuid "867878e7-cca4-49cb-a4c6-58ec211272ad")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cerberus"
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 60.96 210.82)
+		(size 21.59 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 0 0.1500)
+		)
+		(uuid "e7079e5f-f702-4baf-954e-b0a2e0f3c6a1")
+		(property "Sheetname" "Dual_InnerSmallPanelConn"
+			(at 60.96 210.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "d_inner_sml_panel_conn.kicad_sch"
+			(at 60.96 232.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUS_EN_1" input
+			(at 82.55 226.06 0)
+			(uuid "7f939dc7-1fd9-4476-a5b7-b6ac58ee0923")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUS_EN_2" input
+			(at 82.55 228.6 0)
+			(uuid "f8ec4148-8bf8-4a6b-a1ce-c01b2cdebf91")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_+" output
+			(at 82.55 219.71 0)
+			(uuid "7992943e-2ac4-44b7-9366-3580b127c8ec")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_IN_-" output
+			(at 82.55 222.25 0)
+			(uuid "37fc783c-4b13-49f9-871d-e44ddb572efd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_+" input
+			(at 82.55 213.36 0)
+			(uuid "3f8de3ed-6ec7-4633-9eec-810c9d00d2bf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIFF_OUT_-" input
+			(at 82.55 215.9 0)
+			(uuid "440dbd86-2651-49bc-ad4b-93a7fd51641b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "cerberus"
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3"
+					(page "11")
 				)
 			)
 		)
