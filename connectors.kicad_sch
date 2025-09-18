@@ -5214,7 +5214,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "~"
+		(property "JLCPCB Part #" "C585301"
 			(at 67.31 132.08 0)
 			(effects
 				(font
@@ -5223,7 +5223,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part #" "~"
+		(property "Manufacturer Part #" "5051101292"
 			(at 67.31 132.08 0)
 			(effects
 				(font
@@ -5232,7 +5232,7 @@
 				(hide yes)
 			)
 		)
-		(property "Status" "~"
+		(property "Status" "Extended"
 			(at 67.31 132.08 0)
 			(effects
 				(font

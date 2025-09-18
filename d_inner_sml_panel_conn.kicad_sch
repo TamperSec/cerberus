@@ -4162,126 +4162,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x06")
-		(at 25.4 101.6 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4596807b-3a1f-4f79-8587-8d7dc691eac5")
-		(property "Reference" "J11"
-			(at 25.4 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Molex_5051100692"
-			(at 25.4 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "ul_5051100692:CON_5051100692_MOL"
-			(at 25.4 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 25.4 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 25.4 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part #" "~"
-			(at 25.4 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part #" "~"
-			(at 25.4 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Status" "~"
-			(at 25.4 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ddfafca2-af62-4d34-af54-f378c9c9b974")
-		)
-		(pin "2"
-			(uuid "511a50bd-af9e-46cf-8eb4-dd53156a18c4")
-		)
-		(pin "3"
-			(uuid "e5048ae1-fed5-4ed8-9468-ac199c622010")
-		)
-		(pin "4"
-			(uuid "9bdfe2da-547e-4b96-9386-134bc6fa0ced")
-		)
-		(pin "5"
-			(uuid "38665617-10fe-4a98-a16e-adccdca2b738")
-		)
-		(pin "6"
-			(uuid "6d5722cc-3915-4bbb-b7b8-77e5f59eea4d")
-		)
-		(instances
-			(project "cerberus"
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3/3b447ddf-32f7-46b7-89d7-2c343546853f"
-					(reference "J29")
-					(unit 1)
-				)
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3/8018c62c-9360-4349-9101-6cb5b11399a3"
-					(reference "J27")
-					(unit 1)
-				)
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3/9ce84aee-2fad-4537-9822-88907c64b2d7"
-					(reference "J31")
-					(unit 1)
-				)
-				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3/e7079e5f-f702-4baf-954e-b0a2e0f3c6a1"
-					(reference "J11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D_TVS_Small_Filled")
 		(at 86.36 114.3 270)
 		(unit 1)
@@ -5310,6 +5190,126 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x06")
+		(at 25.4 101.6 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d7556f4e-2b6c-4558-bb17-2a32a7e1e0b8")
+		(property "Reference" "J11"
+			(at 25.4 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Molex_5051100692"
+			(at 25.4 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ul_5051100692:CON_5051100692_MOL"
+			(at 25.4 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 25.4 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C779386"
+			(at 25.4 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "5051100692"
+			(at 25.4 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Status" "Extended"
+			(at 25.4 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9c776f16-0d61-407d-95bc-bddc51e5b069")
+		)
+		(pin "2"
+			(uuid "efb3fad9-dc0f-4510-b701-30879c4cdeed")
+		)
+		(pin "3"
+			(uuid "5e6e3f2c-eaee-4b39-9559-8d3f290e166a")
+		)
+		(pin "4"
+			(uuid "e73ca6c8-6785-4f83-a3bc-4c3b908a00c8")
+		)
+		(pin "5"
+			(uuid "79dac516-ee34-4129-bfde-3426e6ba6cdf")
+		)
+		(pin "6"
+			(uuid "fb5eaa5f-e19f-4117-be6b-13533a42396a")
+		)
+		(instances
+			(project "cerberus"
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3/3b447ddf-32f7-46b7-89d7-2c343546853f"
+					(reference "J29")
+					(unit 1)
+				)
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3/8018c62c-9360-4349-9101-6cb5b11399a3"
+					(reference "J27")
+					(unit 1)
+				)
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3/9ce84aee-2fad-4537-9822-88907c64b2d7"
+					(reference "J31")
+					(unit 1)
+				)
+				(path "/6ca117a4-6451-47e2-9d88-45f2e4658233/e9af57f1-85ab-4b6b-b191-4b3c1fc2b0b3/92906e0b-3807-4eea-ab95-1a0ae72c65e3/e7079e5f-f702-4baf-954e-b0a2e0f3c6a1"
+					(reference "J11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x06")
 		(at 25.4 78.74 0)
 		(mirror y)
 		(unit 1)
@@ -5362,7 +5362,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "~"
+		(property "JLCPCB Part #" "C779386"
 			(at 25.4 78.74 0)
 			(effects
 				(font
@@ -5371,7 +5371,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part #" "~"
+		(property "Manufacturer Part #" "5051100692"
 			(at 25.4 78.74 0)
 			(effects
 				(font
@@ -5380,7 +5380,7 @@
 				(hide yes)
 			)
 		)
-		(property "Status" "~"
+		(property "Status" "Extended"
 			(at 25.4 78.74 0)
 			(effects
 				(font
